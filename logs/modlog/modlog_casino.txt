@@ -1,0 +1,61 @@
+[2016-04-02T13:43:07.657Z] (casino) The Sakurai made this chat room official.
+[2016-04-03T18:21:43.325Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-07T02:21:45.700Z] (casino) The Sakurai has revealed their auth symbol.
+[2016-04-07T02:22:48.131Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-08T00:33:40.962Z] (casino) (Amber n_n was demoted to regular user by Amber n_n.)
+[2016-04-08T12:32:26.243Z] (casino) The Sakurai is hiding auth symbol as '@'
+[2016-04-09T13:34:20.657Z] (casino) (The Sakurai changed the roomdesc to: "Gamble your hard earned bucks here!".)
+[2016-04-10T02:45:14.406Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-10T02:52:23.132Z] (casino) (Soft Lopunny was demoted to regular user by The Sakurai.)
+[2016-04-10T21:22:34.876Z] (casino) Amber n_n was promoted to Administrator by The Sakurai.
+[2016-04-11T00:10:38.800Z] (casino) Winter'sPeak was forcibly logged out by The Sakurai.
+[2016-04-11T18:25:08.515Z] (casino) Deltastatics was promoted to Driver by The Sakurai.
+[2016-04-11T18:25:53.670Z] (casino) Alliance - Luca was promoted to Moderator by The Sakurai.
+[2016-04-11T18:26:11.290Z] (casino) Quizzyy was promoted to Voice by The Sakurai.
+[2016-04-11T20:55:40.868Z] (casino) Winter'sPeak was forcibly logged out by The Sakurai.
+[2016-04-12T20:22:06.196Z] (casino) (Amber n_n - ⒶⓌⒶⓎ was demoted to Leader by The Sakurai.)
+[2016-04-12T20:42:29.505Z] (casino) Amber n_n was promoted to Administrator by The Sakurai.
+[2016-04-12T21:07:15.593Z] (casino) (Ransei was demoted to regular user by The Sakurai.)
+[2016-04-12T23:20:08.799Z] (casino) ambernn was unbanned by The Sakurai.
+[2016-04-14T16:28:15.618Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-14T19:29:05.924Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-14T19:48:50.196Z] (casino) (Carnie Moe Sedah was demoted to Moderator by The Sakurai.)
+[2016-04-14T21:19:52.643Z] (casino) Amber n_n - ⒶⓌⒶⓎ was forcibly logged out by The Sakurai.
+[2016-04-14T21:29:45.625Z] (casino) Amber n_n was forcibly logged out by The Sakurai.
+[2016-04-14T21:30:07.792Z] (casino) Amber n_n was banned by The Sakurai. (permaban) (216.106.240.194)
+[2016-04-15T14:02:04.244Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-15T14:12:04.221Z] (casino) Nixtorm Bot was forcibly logged out by The Sakurai.
+[2016-04-15T16:52:20.548Z] (casino) Amber n_n was permanently locked by The Sakurai.
+[2016-04-15T16:52:54.432Z] (casino) Ambernn was removed from the permalock list by The Sakurai
+[2016-04-15T16:52:54.434Z] (casino) Amber n_n was unlocked by The Sakurai.
+[2016-04-15T17:20:31.799Z] (casino) MystikPanda was permanently locked by The Sakurai.
+[2016-04-15T18:22:56.892Z] (casino) DestinedArcanine was promoted to Administrator by The Sakurai.
+[2016-04-15T18:28:36.100Z] (casino) (DestinedArcanine was demoted to Developer by The Sakurai.)
+[2016-04-16T15:39:29.790Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-17T18:21:42.874Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-18T15:25:55.624Z] (casino) AA Leo was banned by The Sakurai. (108.193.28.186)
+[2016-04-18T16:41:08.459Z] (casino) (DestinedArcanine was demoted to Driver by The Sakurai.)
+[2016-04-18T17:20:33.208Z] (casino) The Sakurai was promoted to Developer by The Sakurai.
+[2016-04-18T18:14:58.517Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-19T01:10:57.017Z] (casino) Unaturallife was appointed to Room Founder by Ransei in Casino.
+[2016-04-19T15:06:17.591Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-20T04:18:41.800Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-20T16:56:59.530Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-20T20:23:21.442Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-21T10:46:57.674Z] (casino) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-23T18:40:18.092Z] (casino) (softlopunny was demoted to Moderator by The Sakurai.)
+[2016-04-23T19:12:07.550Z] (casino) (nixtorm bot was demoted to regular user by The Sakurai.)
+[2016-04-23T19:12:17.736Z] (casino) (sakuraisminion was demoted to regular user by The Sakurai.)
+[2016-04-24T14:39:28.257Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-24T14:39:34.994Z] (casino) The Sakurai has revealed their auth symbol.
+[2016-04-24T14:39:40.012Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-24T14:39:48.524Z] (casino) The Sakurai has revealed their auth symbol.
+[2016-04-24T14:39:55.790Z] (casino) The Sakurai is hiding auth symbol as '%'
+[2016-04-25T04:07:58.093Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-26T05:53:27.567Z] (casino) Ambiepom♥ was banned by The Sakurai. (216.106.249.119)
+[2016-04-26T05:53:37.503Z] (casino) ambiepom was unbanned by The Sakurai.
+[2016-04-26T17:20:38.155Z] (casino) (the diabolic gift was demoted to regular user by The Sakurai.)
+[2016-04-26T17:21:00.862Z] (casino) (wndo was demoted to regular user by The Sakurai.)
+[2016-04-28T19:33:23.962Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-04-29T19:15:12.521Z] (casino) The Sakurai is hiding auth symbol as ' '
+[2016-05-02T07:33:49.317Z] (casino) The Sakurai has revealed their auth symbol.

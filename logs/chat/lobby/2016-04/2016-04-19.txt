@@ -1,0 +1,316 @@
+00:06:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+00:16:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+00:26:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+00:36:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+00:43:01 |j| xoxoxoxxo♥
+00:43:10 |l| xoxoxoxxo♥
+00:46:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+00:47:26 |j|~Ransei
+00:47:34 |c|~Ransei|welcome to the club Wando
+00:48:12 |c|*W♡ndo|thanks rans
+00:53:12 |j| Unaturallife
+00:54:59 |c| Unaturallife|Hello
+00:56:09 |userstats|total:6|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+00:57:42 |c|~Ransei|yo
+00:58:21 |c|~Ransei|As you can see, this server's mascot is Articuno
+00:58:28 |c| Unaturallife|But
+00:58:32 |c| Unaturallife|Nidoking
+00:58:33 |c| Unaturallife|;-;
+00:59:07 |c| Unaturallife|Articuno is pretty **cool**
+00:59:11 |c| Unaturallife|hu3
+01:00:07 |raw|<div class='chat'><small>~</small><button name='parseCommand' value='/user Ransei' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#5C993D'>Ransei:</font></b></button><em class='mine'><img src="http://i.imgur.com/V728AvL.png" title="xaa" height="50" width="50" /></em></div>
+01:02:18 |c| Unaturallife|test
+01:06:09 |userstats|total:6|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+01:09:23 |j| The Run
+01:09:39 |c| Unaturallife|Hello The Sakurai
+01:09:41 |l| The Run
+01:09:45 |c| Unaturallife|NM
+01:16:09 |userstats|total:6|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+01:26:09 |userstats|total:6|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+01:29:58 |j| Demolisher9
+01:30:14 |c| Demolisher9|Lemonparty.org
+01:30:18 |c| Demolisher9|Meatspin.com
+01:30:25 |c| Demolisher9|Pornhub.com
+01:30:33 |c| Demolisher9|Origin.psim.us
+01:30:50 |c| Demolisher9|Leaf.psim.us
+01:30:54 |c| Demolisher9|Lux.psim.us
+01:30:59 |c| Demolisher9|Glacia.psim.us
+01:31:09 |c| Demolisher9|Fuck u bitched
+01:31:15 |c| Demolisher9|Suck my dick thot ass hoes
+01:31:21 |c| Demolisher9|Porn.com
+01:31:25 |c|*W♡ndo|i coded for two of them servers
+01:31:27 |c| Demolisher9|Xvideos.com
+01:31:28 Demolisher9 was banned by W♡ndo.
+01:31:28 |unlink|hide|demolisher9
+01:31:28 |l|‽Demolisher9
+01:31:47 |c| Unaturallife|Hey that's pretty good
+01:31:52 |c| Unaturallife|Hello W♡ndo
+01:31:55 |c| Unaturallife|How are you?
+01:31:59 |c|*W♡ndo|hi
+01:32:02 |c|*W♡ndo|im ok you?
+01:32:22 |c| Unaturallife|Doing pretty well
+01:34:11 |j| Demolisher10
+01:34:17 |c| Demolisher10|Spacialgaze.psim.us
+01:34:24 |c| Demolisher10|Porn.com
+01:34:38 |c| Demolisher10|gold.psim.us
+01:34:51 |c| Demolisher10|Core.psim.us
+01:34:58 |c| Demolisher10|Hiddencity.psim.us
+01:35:03 |c| Demolisher10|Royal.psim.us
+01:35:09 |c| Demolisher10|Celestial.psim.us
+01:35:17 |c| Demolisher10|Galaxy.psim.us
+01:35:24 |c| Demolisher10|Ocpu.psim.us
+01:35:35 |c| Demolisher10|Paradox.psim.us
+01:35:40 |c| Demolisher10|Glacialbolt.psim.us
+01:35:49 Demolisher10 was banned by Ransei.
+01:35:49 |unlink|hide|demolisher10
+01:35:49 |l|‽Demolisher10
+01:35:54 |c| Unaturallife|Real cute
+01:36:04 Demolisher10 was permanently banned by Ransei. (you just got demolished)
+01:36:05 |c| Unaturallife|How often do you get these?
+01:36:09 |userstats|total:6|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+01:36:12 |c|~Ransei|well
+01:36:17 |c|~Ransei|actually depends
+01:37:10 |c| Unaturallife|How so?
+01:37:38 |c|~Ransei|It takes a while for a big troll to decide spamming links on every server
+01:37:43 |c|~Ransei|speaking of which...
+01:38:56 |c| Unaturallife|?
+01:39:04 |c|~Ransei|nvm, just this server...
+01:40:06 |l|*W♡ndo
+01:46:09 |userstats|total:6|guests:1| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+01:56:09 |userstats|total:6|guests:1| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+02:06:09 |userstats|total:6|guests:1| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+02:12:18 |j|~Carnie Moe Sedah
+02:16:09 |userstats|total:6|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:3
+02:16:28 |l|@Sakurais Minion
+02:22:47 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Unaturallife' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#BD4D39'>Unaturallife:</font></b></button><em class='mine'>Hello everyone! Brrr, its cold here! <img src="http://i.imgur.com/gu3Osve.png" title="feelsok" height="50" width="50" /></em></div>
+02:26:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:3
+02:36:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:3
+02:38:01 |l| Unaturallife
+02:46:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:3
+02:56:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:3
+02:59:21 |l|~Ransei
+03:06:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+03:16:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+03:17:21 |l| The Sakurai
+03:23:37 |l|~Carnie Moe Sedah
+03:25:33 |j| Wolf Mercy
+03:25:39 |j|~Soft Lopunny
+03:25:48 |j| Winter’sPeak
+03:26:09 |userstats|total:4|guests:0| :2|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:26:16 |l| Winter’sPeak
+03:36:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:46:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:56:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:06:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:06:43 |j| The Run
+04:10:10 |l|~Soft Lopunny
+04:13:06 |l| The Run
+04:16:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+04:20:52 |j|~Carnie Moe Sedah
+04:26:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:36:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:46:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:56:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:06:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:16:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:26:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:36:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:39:26 |j|*The Sakurai
+05:40:55 |l|~DestinedArcanine
+05:40:57 |j|~DestinedArcanine
+05:43:00 |l|~Carnie Moe Sedah
+05:46:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+05:56:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+06:06:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+06:16:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+06:20:00 |l|*The Sakurai
+06:26:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+06:36:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+06:46:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+06:56:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:06:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:16:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:26:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:36:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:46:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:56:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+08:06:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+08:16:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+08:26:09 |userstats|total:3|guests:1| :2|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+08:26:10 |j|*W♡ndo
+08:36:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+08:46:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+08:56:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+09:06:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+09:16:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+09:19:05 |l|*W♡ndo
+09:26:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+09:36:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+09:46:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+09:56:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+10:06:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+10:16:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+10:26:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+10:34:02 |j| The Run
+10:34:24 |l| The Run
+10:35:07 |l|~DestinedArcanine
+10:36:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:46:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:56:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:06:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:16:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:26:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:36:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:46:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:56:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:06:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:16:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:26:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:36:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:46:02 |j| Ambiepom♥
+12:46:09 |userstats|total:2|guests:0| :2|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:48:05 |n|~DestinedArcanine|ambiepom
+12:56:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:06:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:16:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:26:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:36:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:46:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:50:11 |j|@Sakurais Minion
+13:56:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+14:06:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+14:09:40 |l|~DestinedArcanine
+14:09:42 |j|~DestinedArcanine
+14:16:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+14:26:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+14:36:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+14:39:02 |j|~Carnie Moe Sedah
+14:39:38 |l|destinedarcanine
+14:46:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+14:47:40 |j|~DestinedArcanine
+14:47:48 |n|~Destined♥Arcanine|destinedarcanine
+14:48:42 |l|~Carnie Moe Sedah
+14:48:42 |l| Wolf Mercy
+14:48:57 |j|~Carnie Moe Sedah
+14:49:14 |l|~Destined♥Arcanine
+14:49:15 |l|@Sakurais Minion
+14:50:16 |j|@Sakurais Minion
+14:54:29 |j|~Destined♥Arcanine
+14:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+15:05:19 |j|*The Sakurai
+15:06:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+15:06:17 |n| The Sakurai|thesakurai
+15:16:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+15:25:42 |l| The Sakurai
+15:26:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+15:27:56 |j| The Sakurai
+15:27:58 |l| The Sakurai
+15:28:24 |j| The Sakurai
+15:36:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+15:46:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+15:46:55 |j| carnie r4tch3t
+15:48:13 |l| carnie r4tch3t
+15:56:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+15:59:31 |l|~Carnie Moe Sedah
+16:06:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+16:11:19 |b|battle-randombattle-254|~Destined♥Arcanine| The Sakurai
+16:16:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+16:16:22 |n| The Sakurai|thesakurai
+16:17:01 |n| The Sakurai|thesakurai
+16:17:08 |n| The Sakurai|thesakurai
+16:20:59 |j|*W♡ndo
+16:26:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+16:33:02 |l| The Sakurai
+16:33:06 |l|destinedarcanine
+16:33:09 |j| The Sakurai
+16:36:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:0
+16:43:55 |j| carnie r4tch3t
+16:44:04 |l| carnie r4tch3t
+16:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:0
+16:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:0
+17:02:31 |j|~Destined♥Arcanine
+17:03:36 |l| The Sakurai
+17:04:23 |j|~Carnie Moe Sedah
+17:06:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:16:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:26:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:36:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:45:14 |j| sinas gf
+17:45:25 |j| SUTONDEVIL
+17:45:31 |b|battle-randombattle-255| SUTONDEVIL| sinas gf
+17:46:09 |userstats|total:6|guests:0| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:48:11 |j| carnie r4tch3t
+17:49:33 |l| carnie r4tch3t
+17:51:18 |b|battle-randombattle-256| sinas gf| SUTONDEVIL
+17:56:09 |userstats|total:6|guests:0| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:56:24 |b|battle-randombattle-257| sinas gf| SUTONDEVIL
+18:04:03 |b|battle-randombattle-258| sinas gf| SUTONDEVIL
+18:06:09 |userstats|total:6|guests:0| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:12:22 |b|battle-randombattle-259| SUTONDEVIL| sinas gf
+18:16:09 |userstats|total:6|guests:0| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:18:16 |b|battle-randombattle-260| SUTONDEVIL| sinas gf
+18:20:10 |j| The Sakurai
+18:21:37 |l| sinas gf
+18:21:43 |l| SUTONDEVIL
+18:26:09 |userstats|total:5|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+18:36:09 |userstats|total:5|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+18:46:09 |userstats|total:5|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+18:54:15 |j| Umbra Potato
+18:54:27 |n|&DangMashedPotato|umbrapotato
+18:56:09 |userstats|total:6|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:1|❆:0|#:0|*:2|~:2
+19:06:09 |userstats|total:6|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:1|❆:0|#:0|*:2|~:2
+19:16:09 |userstats|total:6|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:1|❆:0|#:0|*:2|~:2
+19:26:09 |userstats|total:6|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:1|❆:0|#:0|*:2|~:2
+19:31:13 |l|&DangMashedPotato
+19:36:09 |userstats|total:5|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:2
+19:43:14 |l|~Carnie Moe Sedah
+19:46:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+19:49:02 |j| The Run
+19:49:18 |l| The Run
+19:51:11 |j| carnie r4tch3t
+19:51:20 |l| carnie r4tch3t
+19:51:37 |j| HoeenHero
+19:53:51 |l| HoeenHero
+19:55:13 |j| HoeenHero
+19:55:49 |l| HoeenHero
+19:56:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+20:06:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+20:16:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:1
+20:19:15 |l|destinedarcanine
+20:26:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:0
+20:36:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:2|~:0
+20:45:41 |l|*W♡ndo
+20:45:41 |l| The Sakurai
+20:46:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:0
+20:51:16 |j| The Sakurai
+20:51:32 |j|~Ransei
+20:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+21:06:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+21:06:34 |j|~Destined♥Arcanine
+21:09:04 |l| The Sakurai
+21:16:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+21:26:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+21:30:34 |j| HoeenHero
+21:33:40 |n| The ideal Pokemon|hoeenhero
+21:36:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+21:39:09 |j|~Carnie Moe Sedah
+21:46:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+21:55:21 |b|battle-randombattle-261|@Sakurais Minion| The ideal Pokemon
+21:56:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+22:00:27 |b|battle-randombattle-262|@Sakurais Minion| The ideal Pokemon
+22:05:14 |l| The ideal Pokemon
+22:06:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+22:16:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+22:26:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+22:36:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+22:42:29 |b|battle-randombattle-263|@Sakurais Minion|~Ransei
+22:46:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+22:56:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:3
+22:59:57 |l|~Carnie Moe Sedah
+23:06:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+23:16:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+23:26:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+23:36:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+23:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+23:47:44 |l|@Sakurais Minion
+23:56:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2

@@ -1,0 +1,2298 @@
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1584:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: isMoney is not defined
+    at CommandContext.exports.commands.bigsixwheel.spin (/home/ubuntu/workspace/chat-plugins/bigsixwheel.js:57:19)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /bigsixwheel spin slot, 100
+
+
+TypeError: Assignment to constant variable.
+    at CommandContext.exports.commands.customavatar.set (/home/ubuntu/workspace/chat-plugins/customavatar.js:51:52)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Ransei
+  room = lobby
+  message = /customavatar set Ransei,http://i.imgur.com/fg9gZXL.png
+
+
+TypeError: Gold.hashColor is not a function
+    at name (/home/ubuntu/workspace/chat-plugins/morecommands.js:685:37)
+    at CommandContext.exports.commands.permaban.credits (/home/ubuntu/workspace/chat-plugins/morecommands.js:692:13)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /credits
+
+
+TypeError: Gold.hashColor is not a function
+    at nameColor (/home/ubuntu/workspace/chat-plugins/morecommands.js:86:37)
+    at /home/ubuntu/workspace/chat-plugins/morecommands.js:95:29
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+
+TypeError: permalocked.users.remove is not a function
+    at CommandContext.exports.commands.permalock (/home/ubuntu/workspace/chat-plugins/permalock.js:55:35)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = ideas
+  message = /plock remove, test
+
+
+ReferenceError: currencyName is not defined
+    at CommandContext.exports.commands.slots.spin (/home/ubuntu/workspace/chat-plugins/slots.js:72:129)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Dragotic
+  room = casino
+  message = /slots spin
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.buy (/home/ubuntu/workspace/chat-plugins/economy.js:317:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = ideas
+  message = /buy Custom Avatar
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = ideas
+  message = /atm
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = DangMashedPotato
+  room = casino
+  message = !atm
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = DangMashedPotato
+  room = casino
+  message = !wallet
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = Ransei
+  room = casino
+  message = /wallet
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = Ransei
+  room = lobby
+  message = /wallet
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = Ransei
+  room = lobby
+  message = /atm
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Little Mawile
+  room = casino
+  message = /atm
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.wallet (/home/ubuntu/workspace/chat-plugins/economy.js:171:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = Dragotic
+  room = casino
+  message = /wallet
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.buy (/home/ubuntu/workspace/chat-plugins/economy.js:317:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /buy League Room
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.buy (/home/ubuntu/workspace/chat-plugins/economy.js:317:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /buy League Room
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.givemoney (/home/ubuntu/workspace/chat-plugins/economy.js:193:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /givebucks fender, 10
+
+
+ReferenceError: Database is not defined
+    at CommandContext.exports.commands.richestuser (/home/ubuntu/workspace/chat-plugins/economy.js:388:3)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = DangMashedPotato
+  room = staff
+  message = /richestusers
+
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token :
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1114:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1116:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/dexsearch.js:178:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+ReferenceError: customColors is not defined
+    at hashColor (/home/ubuntu/workspace/chat-plugins/morecommands.js:20:6)
+    at name (/home/ubuntu/workspace/chat-plugins/morecommands.js:669:32)
+    at CommandContext.exports.commands.permaban.credits (/home/ubuntu/workspace/chat-plugins/morecommands.js:676:13)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+
+Additional information:
+  user = The Sakurai
+  room = shadowbanroom
+  message = /credits
+
+
+ReferenceError: customColors is not defined
+    at hashColor (/home/ubuntu/workspace/chat-plugins/morecommands.js:20:6)
+    at name (/home/ubuntu/workspace/chat-plugins/morecommands.js:669:32)
+    at CommandContext.exports.commands.permaban.credits (/home/ubuntu/workspace/chat-plugins/morecommands.js:676:13)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /credits
+
+
+ReferenceError: hslToRgb is not defined
+    at hashColor (/home/ubuntu/workspace/chat-plugins/morecommands.js:49:12)
+    at name (/home/ubuntu/workspace/chat-plugins/morecommands.js:667:32)
+    at CommandContext.exports.commands.permaban.credits (/home/ubuntu/workspace/chat-plugins/morecommands.js:674:13)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /credits
+
+
+ReferenceError: hslToRgb is not defined
+    at hashColor (/home/ubuntu/workspace/chat-plugins/morecommands.js:49:12)
+    at name (/home/ubuntu/workspace/chat-plugins/morecommands.js:667:32)
+    at CommandContext.exports.commands.permaban.credits (/home/ubuntu/workspace/chat-plugins/morecommands.js:674:13)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+
+Additional information:
+  user = fender
+  room = lobby
+  message = /credits
+
+
+ReferenceError: hslToRgb is not defined
+    at hashColor (/home/ubuntu/workspace/chat-plugins/morecommands.js:49:12)
+    at name (/home/ubuntu/workspace/chat-plugins/morecommands.js:667:32)
+    at CommandContext.exports.commands.permaban.credits (/home/ubuntu/workspace/chat-plugins/morecommands.js:674:13)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /credits
+
+
+TypeError: Gold.hashColor is not a function
+    at nameColor (/home/ubuntu/workspace/chat-plugins/morecommands.js:186:43)
+    at /home/ubuntu/workspace/chat-plugins/morecommands.js:206:28
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1584:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1619:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = McBranquela
+  room = lobby
+  message = /gc
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at nextTickCallbackWith3Args (node.js:453:9)
+    at process._tickCallback (node.js:359:17)
+    at Function.Module.runMain (module.js:443:11)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at nextTickCallbackWith3Args (node.js:453:9)
+    at process._tickCallback (node.js:359:17)
+    at Function.Module.runMain (module.js:443:11)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: ENOENT: no such file or directory, open 'config/friendcodes.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.gc (/home/ubuntu/workspace/chat-plugins/morecommands.js:1191:18)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+
+Additional information:
+  user = The Sakurai
+  room = ideas
+  message = /gc
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at CommandContext.exports.commands.authority.buffer.msg (/home/ubuntu/workspace/commands.js:242:23)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /pm executed, ..
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at CommandContext.exports.commands.authority.buffer.msg (/home/ubuntu/workspace/commands.js:242:23)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /pm executed, wtf
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at CommandContext.exports.commands.authority.buffer.msg (/home/ubuntu/workspace/commands.js:242:23)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /pm executed, whats happened
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at CommandContext.exports.commands.authority.buffer.msg (/home/ubuntu/workspace/commands.js:242:23)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /pm executed, ..
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at CommandContext.exports.commands.authority.buffer.msg (/home/ubuntu/workspace/commands.js:242:23)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /pm executed, yo
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1584:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at CommandContext.exports.commands.authority.buffer.msg (/home/ubuntu/workspace/commands.js:242:23)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = KecleonMarket
+  room = lobby
+  message = /pm executed, Hello?
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at nextTickCallbackWith3Args (node.js:453:9)
+    at process._tickCallback (node.js:359:17)
+    at Function.Module.runMain (module.js:443:11)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at Room.chat (/home/ubuntu/workspace/rooms.js:106:23)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1608:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1584:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at nextTickCallbackWith3Args (node.js:453:9)
+    at process._tickCallback (node.js:359:17)
+    at Function.Module.runMain (module.js:443:11)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+TypeError: Cannot read property 'checkBanned' of undefined
+    at CommandContext.exports.commands.authority.buffer.msg (/home/ubuntu/workspace/commands.js:242:23)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+
+Additional information:
+  user = The Sakurai
+  room = lobby
+  message = /pm executed, rip to that
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at nextTickCallbackWith3Args (node.js:453:9)
+    at process._tickCallback (node.js:359:17)
+    at Function.Module.runMain (module.js:443:11)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+ReferenceError: geoip is not defined
+    at getFlag (/home/ubuntu/workspace/chat-plugins/profile.js:71:27)
+    at showProfile (/home/ubuntu/workspace/chat-plugins/profile.js:84:18)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/chat-plugins/profile.js:58:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+
+ReferenceError: geoip is not defined
+    at getFlag (/home/ubuntu/workspace/chat-plugins/profile.js:71:27)
+    at showProfile (/home/ubuntu/workspace/chat-plugins/profile.js:84:18)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/chat-plugins/profile.js:58:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+
+ReferenceError: geoip is not defined
+    at getFlag (/home/ubuntu/workspace/chat-plugins/profile.js:71:27)
+    at showProfile (/home/ubuntu/workspace/chat-plugins/profile.js:84:18)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/chat-plugins/profile.js:58:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token }
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1114:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1116:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/dexsearch.js:178:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token }
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1114:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1116:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeMods (/home/ubuntu/workspace/tools.js:1010:28)
+    at Object.<anonymous> (/home/ubuntu/workspace/battle-engine.js:30:38)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token }
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1114:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1116:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/dexsearch.js:178:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:637:26)
+    at Function.reinit (/home/ubuntu/workspace/simulator.js:48:39)
+    at CommandContext.exports.commands.authority.buffer.rank.roomauth.buffer.ban.modlog.connection.hotpatch (/home/ubuntu/workspace/commands.js:1933:31)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+
+Additional information:
+  user = CLawliet
+  room = clawstestingroom
+  message = /hotpatch battles
+
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token }
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1114:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1116:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1054:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/dexsearch.js:178:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (internal/child_process.js:637:26)
+    at Function.reinit (/home/ubuntu/workspace/simulator.js:48:39)
+    at CommandContext.exports.commands.authority.buffer.rank.roomauth.buffer.ban.modlog.connection.hotpatch (/home/ubuntu/workspace/commands.js:1933:31)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:223:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:554:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:103:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1589:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1809:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+
+Additional information:
+  user = CLawliet
+  room = clawstestingroom
+  message = /hotpatch battles
+
+
+TypeError: Object.merge is not a function
+    at /home/ubuntu/workspace/tools.js:968:63
+    at Array.forEach (native)
+    at Tools.module.exports.Tools.includeData (/home/ubuntu/workspace/tools.js:955:13)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/dexsearch.js:178:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+
+Additional information:
+
+
+TypeError: Object.merge is not a function
+    at /home/ubuntu/workspace/tools.js:968:63
+    at Array.forEach (native)
+    at Tools.module.exports.Tools.includeData (/home/ubuntu/workspace/tools.js:955:13)
+    at Tools.module.exports.Tools.includeMods (/home/ubuntu/workspace/tools.js:931:28)
+    at Object.<anonymous> (/home/ubuntu/workspace/battle-engine.js:30:38)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+
+SyntaxError: Unexpected token <<
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/datasearch.js:240:17)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+
+Additional information:
+
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token }
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1118:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1120:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/datasearch.js:242:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token }
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1118:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1120:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/datasearch.js:242:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: CRASH LOADING FORMATS:
+SyntaxError: Unexpected token }
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at tryRequire (/home/ubuntu/workspace/tools.js:76:14)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1118:22)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1120:56)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/datasearch.js:242:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+ReferenceError: geoip is not defined
+    at getFlag (/home/ubuntu/workspace/chat-plugins/profile.js:71:27)
+    at showProfile (/home/ubuntu/workspace/chat-plugins/profile.js:84:18)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/chat-plugins/profile.js:58:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+
+ReferenceError: geoip is not defined
+    at getFlag (/home/ubuntu/workspace/chat-plugins/profile.js:71:27)
+    at showProfile (/home/ubuntu/workspace/chat-plugins/profile.js:84:18)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/chat-plugins/profile.js:58:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at nextTickCallbackWith3Args (node.js:453:9)
+    at process._tickCallback (node.js:359:17)
+    at Function.Module.runMain (module.js:443:11)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+ReferenceError: logMoney is not defined
+    at CommandContext.exports.commands.slots.roll (/home/ubuntu/workspace/chat-plugins/slots.js:89:5)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /slots roll
+
+
+Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at nextTickCallbackWith3Args (node.js:453:9)
+    at process._tickCallback (node.js:359:17)
+    at Function.Module.runMain (module.js:443:11)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/rules.js:794:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = development
+  message = /ontime
+
+
+ReferenceError: Galaxy is not defined
+    at CommandContext.exports.commands.seen (/home/ubuntu/workspace/chat-plugins/rules.js:342:89)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = development
+  message = /seen The Sakurai
+
+
+ReferenceError: Galaxy is not defined
+    at CommandContext.exports.commands.seen (/home/ubuntu/workspace/chat-plugins/rules.js:345:60)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = development
+  message = /seen da
+
+
+ReferenceError: Galaxy is not defined
+    at CommandContext.<anonymous> (/home/ubuntu/workspace/chat-plugins/othercommands.js:324:44)
+    at Request.self.callback (/home/ubuntu/workspace/node_modules/request/request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (/home/ubuntu/workspace/node_modules/request/request.js:1035:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/node_modules/request/request.js:962:12)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+
+TypeError: Gold.hashColor is not a function
+    at reply (/home/ubuntu/workspace/chat-plugins/morecommands.js:843:47)
+    at Request._callback (/home/ubuntu/workspace/chat-plugins/morecommands.js:831:5)
+    at Request.self.callback (/home/ubuntu/workspace/node_modules/request/request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (/home/ubuntu/workspace/node_modules/request/request.js:1035:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/node_modules/request/request.js:962:12)
+    at emitNone (events.js:72:20)
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:713:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = development
+  message = /userontime
+
+
+TypeError: Cannot read property 'ransei' of undefined
+    at showProfile (/home/ubuntu/workspace/chat-plugins/profile.js:89:28)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/chat-plugins/profile.js:60:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickDomainCallback (node.js:397:17)
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:695:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1603:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1603:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1603:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+ReferenceError: Ontime is not defined
+    at CommandContext.exports.commands.ontime (/home/ubuntu/workspace/chat-plugins/othercommands.js:697:25)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.processChatQueue (/home/ubuntu/workspace/users.js:1627:14)
+    at null._onTimeout (/home/ubuntu/workspace/users.js:1638:16)
+    at Timer.listOnTimeout (timers.js:92:15)
+
+Additional information:
+  user = The Sakurai
+  room = blizzardleague
+  message = /ontime
+
+
+Error: ENOENT: no such file or directory, open 'config/pbanlist.txt'
+    at Error (native)
+    at Object.fs.openSync (fs.js:549:18)
+    at Object.fs.readFileSync (fs.js:397:15)
+    at CommandContext.exports.commands.permaban.pbanlist (/home/ubuntu/workspace/chat-plugins/morecommands.js:406:17)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /pbl
+
+
+TypeError: Cannot read property 'rank' of undefined
+    at CommandContext.exports.commands.authority.buffer.rank.roomauth.buffer.ban.promote (/home/ubuntu/workspace/commands.js:1523:66)
+    at CommandContext.run (/home/ubuntu/workspace/command-parser.js:244:28)
+    at exports.parse (/home/ubuntu/workspace/command-parser.js:575:18)
+    at Object.exports.parse (/home/ubuntu/workspace/command-parser.js:583:12)
+    at Room.chat (/home/ubuntu/workspace/rooms.js:105:27)
+    at User.chat (/home/ubuntu/workspace/users.js:1608:9)
+    at Function.users.forEach.fs.readFile.groupData.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (/home/ubuntu/workspace/users.js:1828:12)
+    at ChildProcess.<anonymous> (/home/ubuntu/workspace/sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+
+Additional information:
+  user = The Sakurai
+  room = casino
+  message = /globalpromote wndo, &
+
+
+Error: Format `[BETA] Nixtorm Super Staff Bros` requires nonexistent mod: `nssb`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1135:40)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/datasearch.js:242:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: Format `[BETA] Nixtorm Super Staff Bros` requires nonexistent mod: `nssb`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1135:40)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeMods (/home/ubuntu/workspace/tools.js:1014:28)
+    at Object.<anonymous> (/home/ubuntu/workspace/battle-engine.js:30:38)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+
+Error: Format `[BETA] Nixtorm Super Staff Bros` requires nonexistent mod: `nssb`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1135:40)
+    at Object.<anonymous> (/home/ubuntu/workspace/app.js:185:7)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Error: Format #1 has a duplicate ID: `randombattle`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1129:37)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at /home/ubuntu/workspace/chat-plugins/info.js:1676:30
+    at nextTickCallbackWith0Args (node.js:420:9)
+    at process._tickCallback (node.js:349:13)
+
+Error: Format `[BETA] Nixtorm Super Staff Bros` requires nonexistent mod: `nssb`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1135:40)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Object.<anonymous> (/home/ubuntu/workspace/chat-plugins/datasearch.js:242:8)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Additional information:
+
+
+Error: Format `[BETA] Nixtorm Super Staff Bros` requires nonexistent mod: `nssb`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1135:40)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeMods (/home/ubuntu/workspace/tools.js:1014:28)
+    at Object.<anonymous> (/home/ubuntu/workspace/battle-engine.js:30:38)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+
+Error: Format `[BETA] Nixtorm Super Staff Bros` requires nonexistent mod: `nssb`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1135:40)
+    at Object.<anonymous> (/home/ubuntu/workspace/app.js:185:7)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+    at startup (node.js:139:18)
+    at node.js:968:3
+
+Error: Format #1 has a duplicate ID: `randombattle`
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeFormats (/home/ubuntu/workspace/tools.js:1129:37)
+    at Tools.module.exports.Tools.toTimeStamp.Tools.toDurationString.Tools.includeData (/home/ubuntu/workspace/tools.js:1058:9)
+    at /home/ubuntu/workspace/chat-plugins/info.js:1676:30
+    at nextTickCallbackWith0Args (node.js:420:9)
+    at process._tickCallback (node.js:349:13)
+
+TypeError: Cannot read property 'thesakurai' of undefined
+    at showProfile (E:\Nixtorm\workspace\chat-plugins\profile.js:89:28)
+    at IncomingMessage.<anonymous> (E:\Nixtorm\workspace\chat-plugins\profile.js:60:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+
+TypeError: Cannot read property 'thesakurai' of undefined
+    at showProfile (E:\Nixtorm\workspace\chat-plugins\profile.js:89:28)
+    at IncomingMessage.<anonymous> (E:\Nixtorm\workspace\chat-plugins\profile.js:60:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+
+TypeError: Cannot read property 'thesakurai' of undefined
+    at showProfile (E:\Nixtorm\workspace\chat-plugins\profile.js:89:28)
+    at IncomingMessage.<anonymous> (E:\Nixtorm\workspace\chat-plugins\profile.js:60:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+
+TypeError: Cannot read property 'enriique' of undefined
+    at showProfile (E:\Nixtorm\workspace\chat-plugins\profile.js:89:28)
+    at IncomingMessage.<anonymous> (E:\Nixtorm\workspace\chat-plugins\profile.js:60:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+
+TypeError: Gold.hashColor is not a function
+    at CommandContext.exports.commands.tell (E:\Nixtorm\workspace\chat-plugins\morecommands.js:274:137)
+    at CommandContext.run (E:\Nixtorm\workspace\command-parser.js:244:28)
+    at Object.exports.parse (E:\Nixtorm\workspace\command-parser.js:575:18)
+    at Room.chat (E:\Nixtorm\workspace\rooms.js:105:27)
+    at User.chat (E:\Nixtorm\workspace\users.js:1608:9)
+    at Function.ip.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (E:\Nixtorm\workspace\users.js:1828:12)
+    at ChildProcess.<anonymous> (E:\Nixtorm\workspace\sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+    at Pipe.channel.onread (internal/child_process.js:440:11)
+
+Additional information:
+  user = Soft Lopunny
+  room = lobby
+  message = /tell the sakurai, can we talk?
+
+
+TypeError: Cannot read property 'phoenixgod' of undefined
+    at showProfile (E:\Nixtorm\workspace\chat-plugins\profile.js:89:28)
+    at IncomingMessage.<anonymous> (E:\Nixtorm\workspace\chat-plugins\profile.js:60:29)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:905:12)
+    at nextTickCallbackWith2Args (node.js:455:9)
+    at process._tickCallback (node.js:369:17)
+
+TypeError: Gold.hashColor is not a function
+    at reply (E:\Nixtorm\workspace\chat-plugins\morecommands.js:837:47)
+    at Request._callback (E:\Nixtorm\workspace\chat-plugins\morecommands.js:825:5)
+    at Request.self.callback (E:\Nixtorm\workspace\node_modules\request\request.js:198:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (E:\Nixtorm\workspace\node_modules\request\request.js:1035:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (E:\Nixtorm\workspace\node_modules\request\request.js:962:12)
+    at emitNone (events.js:72:20)
+
+TypeError: Gold.hashColor is not a function
+    at CommandContext.exports.commands.tell (E:\Nixtorm\workspace\chat-plugins\morecommands.js:274:137)
+    at CommandContext.run (E:\Nixtorm\workspace\command-parser.js:244:28)
+    at Object.exports.parse (E:\Nixtorm\workspace\command-parser.js:575:18)
+    at Room.chat (E:\Nixtorm\workspace\rooms.js:105:27)
+    at User.chat (E:\Nixtorm\workspace\users.js:1608:9)
+    at Function.ip.rename.connection.validateRename.challenge.getAlts.getAll.ban.userid.lock.userid.leaveRoom.force.prepBattle.connection.static.pruneInactive.Users.socketConnect.fs.appendFile.require.randomBytes.Users.socketReceive.message [as socketReceive] (E:\Nixtorm\workspace\users.js:1828:12)
+    at ChildProcess.<anonymous> (E:\Nixtorm\workspace\sockets-nocluster.js:54:11)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at handleMessage (internal/child_process.js:686:10)
+
+Additional information:
+  user = Chirou
+  room = lobby
+  message = /tell The Sakurai, Proof I trolled hackers: http://pastebin.com/5dv6tsUd
+

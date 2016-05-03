@@ -1,0 +1,103 @@
+[2016-04-02T13:43:12.593Z] (ideas) The Sakurai made this chat room official.
+[2016-04-02T17:27:38.931Z] (ideas) (Amber n_n was demoted to regular user by The Sakurai.)
+[2016-04-02T17:29:38.864Z] (ideas) Amber n_n was promoted to Leader by The Sakurai.
+[2016-04-03T09:33:27.458Z] (ideas) (The Sakurai has perma locked:  test)
+[2016-04-03T11:00:50.311Z] (ideas) (DuosionCoder has perma locked:  Dragotic)
+[2016-04-03T19:22:06.434Z] (ideas) The Sakurai has revealed their auth symbol.
+[2016-04-03T19:33:41.311Z] (ideas) (duosioncoder was demoted to Driver by The Sakurai.)
+[2016-04-03T20:37:45.650Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-03T23:23:07.657Z] (ideas) (The Sakurai has set an custom color to ambernn)
+[2016-04-03T23:24:43.399Z] (ideas) (The Sakurai has set an custom color to ransei)
+[2016-04-03T23:26:01.997Z] (ideas) (The Sakurai has set an custom color to ransei)
+[2016-04-03T23:28:35.911Z] (ideas) (The Sakurai has set an custom color to ransei)
+[2016-04-03T23:30:40.507Z] (ideas) (The Sakurai has set an icon to  ambernn)
+[2016-04-04T08:28:14.347Z] (ideas) DarkChampionMewtwo was locked from talking by The Sakurai. (Permalock)
+[2016-04-04T08:28:24.885Z] (ideas) (The Sakurai has perma locked:  darkchampionmewtwo)
+[2016-04-04T08:29:24.177Z] (ideas) DarkChampionMewtwo was forcibly logged out by The Sakurai.
+[2016-04-04T08:30:08.932Z] (ideas) DarkChampionMewtwo was forcibly logged out by The Sakurai.
+[2016-04-04T08:30:40.443Z] (ideas) The Sakurai temporarily banned the IP: 50.169.171.142
+[2016-04-04T14:53:10.753Z] (ideas) (A tour poll was started by The Sakurai.)
+[2016-04-04T14:53:20.149Z] (ideas) (The poll was ended by The Sakurai.)
+[2016-04-04T15:19:10.121Z] (ideas) The Sakurai is hiding auth symbol as '@'
+[2016-04-04T15:20:06.330Z] (ideas) The Sakurai has revealed their auth symbol.
+[2016-04-04T16:13:52.436Z] (ideas) (battle1001 was demoted to regular user by The Sakurai.)
+[2016-04-04T23:20:10.255Z] (ideas) (The Sakurai was demoted to Operator by The Sakurai.)
+[2016-04-04T23:20:23.195Z] (ideas) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-05T12:10:29.682Z] (ideas) Soku-PS was banned by The Sakurai. (goodbye ggdaca) (151.227.36.201)
+[2016-04-05T12:37:24.140Z] (ideas) (The Sakurai has perma locked:  soku-ps)
+[2016-04-05T12:37:36.407Z] (ideas) (The Sakurai has perma locked:  ggdaca)
+[2016-04-05T12:37:44.758Z] (ideas) (The Sakurai has perma locked:  psns)
+[2016-04-06T21:06:06.620Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-06T22:38:25.900Z] (ideas) The Sakurai has revealed their auth symbol.
+[2016-04-06T22:38:57.473Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-07T00:16:21.327Z] (ideas) The Sakurai has revealed their auth symbol.
+[2016-04-07T00:16:31.045Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-07T23:50:01.870Z] (ideas) (allianceluca was demoted to regular user by The Sakurai.)
+[2016-04-07T23:50:06.170Z] (ideas) (guardianneb was demoted to regular user by The Sakurai.)
+[2016-04-07T23:50:12.739Z] (ideas) (duosioncoder was demoted to regular user by The Sakurai.)
+[2016-04-08T02:48:53.329Z] (ideas) The Sakurai - ⓩⓩⓩ has revealed their auth symbol.
+[2016-04-08T02:49:06.708Z] (ideas) The Sakurai - ⓩⓩⓩ is hiding auth symbol as '@'
+[2016-04-08T12:33:09.351Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-08T19:38:52.637Z] (ideas) The Sakurai is hiding auth symbol as '&'
+[2016-04-08T19:38:59.693Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-08T20:43:27.718Z] (ideas) The Sakurai is hiding auth symbol as '+'
+[2016-04-08T22:23:41.868Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-09T09:09:32.208Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-09T13:34:41.520Z] (ideas) (The Sakurai changed the roomdesc to: "Leave your ideas and suggestions for the server in this room!".)
+[2016-04-09T13:34:50.292Z] (ideas) The Sakurai was appointed to Room Founder by The Sakurai in Ideas.
+[2016-04-09T16:20:39.605Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-10T02:44:44.316Z] (ideas) The Sakurai has revealed their auth symbol.
+[2016-04-10T02:55:19.010Z] (ideas) Ransei was locked from talking by Ransei.
+[2016-04-10T02:57:03.357Z] (ideas) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-10T02:57:09.271Z] (ideas) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-10T03:01:12.729Z] (ideas) The Sakurai was appointed to Room Founder by The Sakurai in Ideas.
+[2016-04-10T03:29:26.131Z] (ideas) The Sakurai has revealed their auth symbol.
+[2016-04-10T03:29:34.739Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-10T14:31:57.968Z] (ideas) AA Leo was banned by The Sakurai. (108.193.25.187)
+[2016-04-10T14:43:18.367Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-10T20:16:51.438Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-11T17:08:37.052Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-11T19:52:01.261Z] (ideas) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-12T18:38:57.433Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-12T22:31:18.425Z] (ideas) Amber n_n was banned by The Sakurai. (bye) (216.106.250.187)
+[2016-04-13T00:12:04.108Z] (ideas) (Carnie Moe Sedah was demoted to Driver by The Sakurai.)
+[2016-04-13T00:12:30.688Z] (ideas) (deltastatics was demoted to Voice by The Sakurai.)
+[2016-04-13T00:33:18.938Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-13T06:10:44.092Z] (ideas) DarkChampionMewtwo was banned by The Sakurai. (50.169.171.142)
+[2016-04-13T06:11:24.894Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-13T15:13:48.151Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-13T15:57:05.090Z] (ideas) The Sakurai has revealed their auth symbol.
+[2016-04-13T16:07:40.677Z] (ideas) Amber n_n was locked from talking by The Sakurai.
+[2016-04-13T17:45:44.941Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-14T17:13:05.679Z] (ideas) (fender was demoted to Leader by The Sakurai - ⓑⓤⓢⓨ.)
+[2016-04-14T19:25:18.846Z] (ideas) Amber n_n was promoted to Administrator by Amber n_n.
+[2016-04-14T19:47:35.509Z] (ideas) (allianceluca was demoted to regular user by The Sakurai.)
+[2016-04-14T19:47:50.857Z] (ideas) (guardianneb was demoted to regular user by The Sakurai.)
+[2016-04-14T19:48:06.907Z] (ideas) (starfox3 was demoted to Voice by The Sakurai.)
+[2016-04-14T21:24:25.738Z] (ideas) Amber n_n was forcibly logged out by The Sakurai.
+[2016-04-14T21:30:30.018Z] (ideas) (Amber n_n would be banned by The Sakurai but was already banned.) (216.106.240.194)
+[2016-04-14T23:55:51.731Z] (ideas) ambernn was unbanned by The Sakurai.
+[2016-04-15T13:56:12.913Z] (ideas) The Sakurai made this chat room unofficial.
+[2016-04-15T13:56:16.616Z] (ideas) (The Sakurai has protected this room from being automatically deleted.)
+[2016-04-17T15:00:27.016Z] (ideas) (clawliet was demoted to Voice by The Sakurai.)
+[2016-04-21T13:20:13.249Z] (ideas) (starfox3 was demoted to regular user by The Sakurai.)
+[2016-04-21T13:20:20.226Z] (ideas) (deltastatics was demoted to regular user by The Sakurai.)
+[2016-04-21T13:20:31.849Z] (ideas) (clawliet was demoted to regular user by The Sakurai.)
+[2016-04-21T15:48:25.694Z] (ideas) The Sakurai is hiding auth symbol as ' '
+[2016-04-22T05:50:19.400Z] (ideas) The Sakurai send a popup message to Shiny Articunos
+[2016-04-22T05:50:55.927Z] (ideas) The Sakurai send a popup message to Shiny Articunos
+[2016-04-22T16:05:18.593Z] (ideas) The Sakurai send a popup message to HoeenHero
+[2016-04-24T14:34:11.807Z] (ideas) The Sakurai send a popup message to The Sakurai
+[2016-04-26T19:43:05.035Z] (ideas) The Sakurai send a popup message to Chirou
+[2016-04-26T19:43:28.505Z] (ideas) The Sakurai send a popup message to Chirou
+[2016-04-26T19:43:52.457Z] (ideas) The Sakurai send a popup message to The Sakurai
+[2016-04-26T19:44:05.379Z] (ideas) The Sakurai send a popup message to The Sakurai
+[2016-04-26T19:44:34.403Z] (ideas) The Sakurai send a popup message to Chirou
+[2016-04-26T19:45:59.528Z] (ideas) The Sakurai send a popup message to KecleonMarket
+[2016-04-26T19:46:11.384Z] (ideas) The Sakurai send a popup message to The Sakurai
+[2016-04-30T09:17:23.186Z] (ideas) The Sakurai send a popup message to KecleonMarket
+[2016-04-30T09:19:39.003Z] (ideas) The Sakurai send a popup message to KecleonMarket
+[2016-04-30T09:20:16.067Z] (ideas) The Sakurai send a popup message to The Sakurai
+[2016-04-30T09:22:43.378Z] (ideas) The Sakurai send a popup message to KecleonMarket
+[2016-04-30T20:06:06.238Z] (ideas) Chirou was forcibly logged out by The Sakurai. (no)
+[2016-05-01T18:41:22.464Z] (ideas) The Sakurai is hiding auth symbol as ' '

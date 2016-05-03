@@ -1,0 +1,368 @@
+[2016-04-02T13:24:40.968Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-02T13:55:30.772Z] (lobby) (The Sakurai changed the roomdesc to: "Come into the freezing Lobby!".)
+[2016-04-02T14:11:30.313Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-02T15:21:56.309Z] (lobby) Soft Lopunny was promoted to Administrator by Soft Lopunny.
+[2016-04-02T15:22:33.188Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-02T15:22:44.834Z] (lobby) The Sakurai was promoted to Administrator by Soft Lopunny.
+[2016-04-02T15:23:07.036Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-02T15:23:25.181Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-02T15:27:11.229Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-02T15:28:03.154Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-02T15:29:00.754Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-02T15:31:18.341Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-02T15:32:11.900Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-02T15:32:53.161Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-02T15:33:05.807Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-02T15:36:19.863Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-02T15:40:18.961Z] (lobby) Battle 1001 was promoted to Voice by The Sakurai.
+[2016-04-02T15:40:33.045Z] (lobby) Battle 1001 was appointed Room Owner by The Sakurai.
+[2016-04-02T15:40:35.395Z] (lobby) (Battle 1001 was demoted to Room Moderator by The Sakurai.)
+[2016-04-02T17:04:15.810Z] (lobby) DangMashedPotato was promoted to Leader by The Sakurai.
+[2016-04-02T17:23:21.224Z] (lobby) Amber n_n was promoted to Leader by The Sakurai.
+[2016-04-02T20:39:45.702Z] (lobby) (Amber n_n changed the roomintro.)
+[2016-04-02T20:43:06.312Z] (lobby) The Sakurai declared Sorry about the disconnections. C9 is playing up at the moment. 
+[2016-04-02T20:52:13.709Z] (lobby) Winter'sPeak was kicked from the room by Amber n_n.
+[2016-04-03T16:51:04.704Z] (lobby) The Sakurai globally declared Nixtorm has a new game: Slots!<br>It costs 3 bucks to play and you can only play in the Casino!<br>Use /slots for winnings information and credits, and use /slots spin to play the game!<br>Top prize is 50 bucks<br>Good luck and have fun!
+[2016-04-03T17:36:42.759Z] (lobby) Ransei is hiding auth symbol as ' '
+[2016-04-03T17:56:55.148Z] (lobby) (fender was demoted to regular user by fender.)
+[2016-04-03T17:59:01.417Z] (lobby) (fender was demoted to regular user by fender.)
+[2016-04-03T18:06:27.227Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-03T18:24:43.101Z] (lobby) The Sakurai globally declared The bucks economy is now fully functioning.<br>To see the newly designed shop, use the /shop command.<br>To learn more about how to get bucks, check the ''Learn about Bucks'' button on the Lobby roomintro.
+[2016-04-03T18:36:19.662Z] (lobby) DangMashedPotato is hiding auth symbol as ' '
+[2016-04-03T18:56:18.656Z] (lobby) (Ransei created a tournament in 1v1 format.)
+[2016-04-03T19:00:39.886Z] (lobby) Ransei declared This is a bucks tournament, Winner gets 20 bucks while Runner up gets 10!
+[2016-04-03T20:39:20.378Z] (lobby) Amber n_n was promoted to Administrator by The Sakurai.
+[2016-04-03T23:37:28.828Z] (lobby) The Sakurai globally declared There are some new games that have been added on Nixtorm!<br>/coingame - You either win heads or tails.<br>/slots spin - A fun Casino game that you can win up to 50 bucks on. (Made by Dragotic)<br>Have fun and good luck!
+[2016-04-04T00:38:19.220Z] (lobby) SWL Erica was banned by The Sakurai. (69.115.160.186)
+[2016-04-04T16:08:33.791Z] (lobby) fender was promoted to Administrator by The Sakurai.
+[2016-04-04T16:11:18.104Z] (lobby) (fender was demoted to Leader by The Sakurai.)
+[2016-04-04T16:13:40.341Z] (lobby) Nixtorm Bot was promoted to Voice by The Sakurai.
+[2016-04-04T16:13:44.322Z] (lobby) Nixtorm Bot was promoted to Room Moderator by The Sakurai.
+[2016-04-04T16:23:22.855Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-04T16:26:44.101Z] (lobby) The Sakurai declared Ignore that. The error has been fixed.
+[2016-04-05T12:06:58.015Z] (lobby) Soku-PS was warned by Nixtorm Bot. (Automated response: caps)
+[2016-04-05T12:09:26.246Z] (lobby) Soku-PS was locked from talking by DuosionCoder.
+[2016-04-06T21:05:27.555Z] (lobby) AA Leo was promoted to Leader by The Sakurai.
+[2016-04-06T22:02:02.918Z] (lobby) Ransei is hiding auth symbol as ' '
+[2016-04-06T22:16:08.273Z] (lobby) The Sakurai declared Sorry for the disconnections, C9 is probably having technical difficulties at the moment. Apologies for any inconvenience caused.
+[2016-04-06T22:55:09.944Z] (lobby) Glacia Guardian was warned by Nixtorm Bot. (Automated response: caps)
+[2016-04-06T22:55:19.705Z] (lobby) Glacia Guardian was banned by Amber n_n. (70.176.40.210)
+[2016-04-06T23:04:36.939Z] (lobby) MilkQuake was banned by Amber n_n. (70.24.235.221)
+[2016-04-06T23:05:23.281Z] (lobby) (The Sakurai set modchat to autoconfirmed)
+[2016-04-06T23:38:44.829Z] (lobby) The Pokémon of the Day was changed to Kecleon by The Sakurai.
+[2016-04-06T23:41:31.542Z] (lobby) DangMashedPotato is hiding auth symbol as ' '
+[2016-04-06T23:41:37.059Z] (lobby) DangMashedPotato has revealed their auth symbol.
+[2016-04-06T23:41:42.423Z] (lobby) DangMashedPotato is hiding auth symbol as '+'
+[2016-04-06T23:43:29.198Z] (lobby) The Sakurai declared Just saying if you battle Winter'sPeak (Jacob) be prepared to lose. This guy has me raging so hard rn... ~Sakurai
+[2016-04-07T00:28:15.667Z] (lobby) The Sakurai declared Welcome our new league to Nixtorm! The Blizzard League! Let's freeze together, all slots open! .3.
+[2016-04-07T01:13:39.077Z] (lobby) The Pokémon of the Day was changed to Relicanth by The Sakurai.
+[2016-04-07T02:10:41.313Z] (lobby) The Pokémon of the Day was changed to Magikarp by The Sakurai.
+[2016-04-07T02:11:34.663Z] (lobby) The Pokémon of the Day was changed to Milotic by The Sakurai.
+[2016-04-07T03:22:06.509Z] (lobby) The Sakurai was warned by Soft Lopunny. (stretch caps and i'm salty D:<)
+[2016-04-07T03:22:10.740Z] (lobby) Soft Lopunny was kicked from the room by Amber n_n.
+[2016-04-07T03:22:29.682Z] (lobby) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-07T03:23:19.507Z] (lobby) Winter'sPeak was banned from room lobby by Amber n_n.
+[2016-04-07T03:23:25.992Z] (lobby) winterspeak was unbanned from room lobby by Amber n_n.
+[2016-04-07T03:52:16.728Z] (lobby) The Sakurai was locked from talking by The Sakurai. (fuck showdown)
+[2016-04-07T03:52:53.712Z] (lobby) The Sakurai was unlocked by Amber n_n.
+[2016-04-07T04:08:17.730Z] (lobby) The Sakurai was banned by The Sakurai. (test) (94.11.181.65)
+[2016-04-07T04:09:18.318Z] (lobby) thesakurai was unbanned by Amber n_n.
+[2016-04-07T04:09:23.675Z] (lobby) The Sakurai was unlocked by Amber n_n.
+[2016-04-07T04:09:29.431Z] (lobby) The Sakurai was promoted to Administrator by Amber n_n.
+[2016-04-07T16:19:50.101Z] (lobby) (Amber n_n was demoted to Leader by The Sakurai.)
+[2016-04-07T16:19:54.438Z] (lobby) Amber n_n was promoted to Administrator by The Sakurai.
+[2016-04-07T16:20:13.226Z] (lobby) (softlopunny was demoted to Leader by The Sakurai.)
+[2016-04-07T16:20:35.118Z] (lobby) softlopunny was promoted to Administrator by Amber n_n.
+[2016-04-07T16:48:20.831Z] (lobby) Mr.poods was muted by Amber n_n for 7 minutes.
+[2016-04-07T16:48:32.789Z] (lobby) Mr.poods was unmuted by Amber n_n.
+[2016-04-07T16:48:45.391Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-07T16:52:18.890Z] (lobby) DangMashedPotato was warned by Amber n_n.
+[2016-04-07T16:54:55.744Z] (lobby) (AA Leo (◡‿◡✿) was demoted to regular user by The Sakurai.)
+[2016-04-07T16:54:59.949Z] (lobby) (The Sakurai notes: requested)
+[2016-04-07T17:42:30.996Z] (lobby) The Sakurai globally declared Rock Paper Scissors<br>/rps search (bucks) - searches for a game of Rock/Paper/Scissors either for ladder points or for bucks.<br>/rps endsearch - stop searching for a game of Rock/Paper/Scissors.<br>/rps rank [user] - shows rank for Rock/Paper/Scissors for either a user or yourself.<br>/rps ladder - shows top 100 on the RPS ladder.
+[2016-04-07T18:03:41.242Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-07T20:51:19.202Z] (lobby) The Pokémon of the Day was changed to Parasect by The Sakurai.
+[2016-04-07T21:39:01.783Z] (lobby) The Pokémon of the Day was changed to Vaporeon by The Sakurai.
+[2016-04-07T23:50:33.570Z] (lobby) Nixtorm Bot was promoted to Moderator by The Sakurai.
+[2016-04-07T23:51:27.331Z] (lobby) Guardian Neb was promoted to Moderator by The Sakurai.
+[2016-04-08T00:35:59.798Z] (lobby) Amber n_n was promoted to Administrator by The Sakurai.
+[2016-04-08T00:37:59.601Z] (lobby) Amber n_n is hiding auth symbol as ' '
+[2016-04-08T00:47:33.117Z] (lobby) (Amber n_n was demoted to regular user by Amber n_n.)
+[2016-04-08T02:04:12.971Z] (lobby) Amber n_n was promoted to Administrator by Amber n_n.
+[2016-04-08T02:05:56.584Z] (lobby) (Ransei was demoted to regular user by Ransei.)
+[2016-04-08T02:06:02.282Z] (lobby) Ransei was promoted to Administrator by Ransei.
+[2016-04-08T02:06:09.377Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-08T02:06:17.545Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-08T03:36:37.250Z] (lobby) (Soft Lopunny was demoted to regular user by The Sakurai.)
+[2016-04-08T03:58:19.601Z] (lobby) Soft Lopunny was promoted to Administrator by The Sakurai.
+[2016-04-08T04:01:42.220Z] (lobby) (Soft Lopunny was demoted to regular user by Amber n_n.)
+[2016-04-08T04:49:57.652Z] (lobby) The Sakurai was kicked from the room by The Sakurai.
+[2016-04-08T05:03:22.735Z] (lobby) (Amber n_n changed the roomintro.)
+[2016-04-08T05:05:17.444Z] (lobby) (Amber n_n changed the roomintro.)
+[2016-04-08T05:05:29.654Z] (lobby) (Amber n_n changed the roomintro.)
+[2016-04-08T05:06:13.916Z] (lobby) (Amber n_n changed the roomintro.)
+[2016-04-08T12:44:38.473Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-08T13:04:26.327Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-08T13:27:49.045Z] (lobby) Dellven was banned by The Sakurai. (37.104.103.40)
+[2016-04-08T13:29:52.523Z] (lobby) (Dellven would be banned by The Sakurai but was already banned.) (37.104.103.40)
+[2016-04-08T18:22:25.728Z] (lobby) Mr.poods was kicked from the room by Amber n_n.
+[2016-04-08T19:38:20.196Z] (lobby) Amber n_n is hiding auth symbol as '+'
+[2016-04-08T19:38:51.219Z] (lobby) Amber n_n is hiding auth symbol as ' '
+[2016-04-08T20:22:40.326Z] (lobby) DangMashedPotato is hiding auth symbol as ' '
+[2016-04-08T21:07:19.875Z] (lobby) (The Sakurai set modchat to false)
+[2016-04-08T21:17:09.278Z] (lobby) The Sakurai globally declared What killed the dinosaurs?<br>The<i>Ice</i>Age!
+[2016-04-08T22:22:58.430Z] (lobby) Carnie Moe Sedah was promoted to Operator by The Sakurai.
+[2016-04-08T22:31:13.856Z] (lobby) (Carnie Moe Sedah was demoted to Voice by The Sakurai.)
+[2016-04-08T22:31:19.835Z] (lobby) Carnie Moe Sedah was promoted to Room Operator by The Sakurai.
+[2016-04-08T23:04:19.900Z] (lobby) (A poll was started by The Sakurai.)
+[2016-04-09T01:33:32.983Z] (lobby) Ransei is hiding auth symbol as ' '
+[2016-04-09T09:42:37.088Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-09T09:50:01.541Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-09T11:44:03.950Z] (lobby) SSW Eldes was banned by the sakurai. (69.115.160.186)
+[2016-04-09T15:01:15.319Z] (lobby) The Sakurai declared Nixtorm now has UNO!
+[2016-04-09T16:14:48.604Z] (lobby) Soft Lopunny was promoted to Administrator by Soft Lopunny.
+[2016-04-09T17:05:45.604Z] (lobby) Carnie Moe Sedah was promoted to Room Driver by The Sakurai.
+[2016-04-09T21:34:00.013Z] (lobby) ambernn was unbanned by The Sakurai.
+[2016-04-09T21:35:12.541Z] (lobby) (Amber n_n was demoted to Driver by The Sakurai.)
+[2016-04-09T21:50:57.052Z] (lobby) Amber n_n was unlocked by The Sakurai.
+[2016-04-09T21:51:25.429Z] (lobby) (Amber n_n was demoted to regular user by Amber n_n.)
+[2016-04-09T21:54:29.780Z] (lobby) Amber n_n was promoted to Administrator by Amber n_n.
+[2016-04-09T21:54:48.582Z] (lobby) (Amber n_n was demoted to regular user by Amber n_n.)
+[2016-04-10T00:43:56.211Z] (lobby) Ransei is hiding auth symbol as ' '
+[2016-04-10T01:44:00.038Z] (lobby) The Pokémon of the Day was changed to Lopunny by The Sakurai.
+[2016-04-10T02:40:29.863Z] (lobby) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:43:44.071Z] (lobby) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:46:35.364Z] (lobby) The Sakurai was locked from talking by The Sakurai.
+[2016-04-10T02:47:09.075Z] (lobby) The Sakurai was unlocked by The Sakurai.
+[2016-04-10T02:54:59.081Z] (lobby) Soft Lopunny was promoted to Administrator by Soft Lopunny.
+[2016-04-10T02:55:02.854Z] (lobby) Soft Lopunny is hiding auth symbol as ' '
+[2016-04-10T02:55:17.123Z] (lobby) The Sakurai has revealed their auth symbol.
+[2016-04-10T02:55:24.378Z] (lobby) Soft Lopunny has revealed their auth symbol.
+[2016-04-10T02:55:27.629Z] (lobby) Soft Lopunny is hiding auth symbol as ' '
+[2016-04-10T02:57:53.659Z] (lobby) Carnie Moe Sedah was forcibly logged out by Soft Lopunny.
+[2016-04-10T02:58:07.367Z] (lobby) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T03:02:18.295Z] (lobby) (The poll was ended by The Sakurai.)
+[2016-04-10T03:06:12.065Z] (lobby) Soft Lopunny was kicked from the room by Carnie Moe Sedah.
+[2016-04-10T03:25:05.973Z] (lobby) (Ransei was demoted to regular user by The Sakurai.)
+[2016-04-10T03:25:09.453Z] (lobby) Ransei was promoted to Administrator by The Sakurai.
+[2016-04-10T03:29:10.089Z] (lobby) Ransei has revealed their auth symbol.
+[2016-04-10T03:48:32.969Z] (lobby) (Hitler is waifu was forced to choose a new name by The Sakurai)
+[2016-04-10T12:46:38.507Z] (lobby) The Sakurai declared Nixtorm is restarting in 2 hours.
+[2016-04-10T12:55:46.252Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-10T16:50:17.006Z] (lobby) (A poll was started by KecleonMarket.)
+[2016-04-10T18:47:17.391Z] (lobby) (The Sakurai set modchat to ~)
+[2016-04-10T19:02:16.788Z] (lobby) (The Sakurai set modchat to false)
+[2016-04-10T22:07:17.252Z] (lobby) The Pokémon of the Day was changed to Palkia by The Sakurai.
+[2016-04-11T21:38:49.060Z] (lobby) DarkChampionMewtwo was banned by The Sakurai. (50.169.171.142)
+[2016-04-11T21:39:17.603Z] (lobby) (DarkChampionMewtwo would be banned by The Sakurai but was already banned.) (50.169.171.142)
+[2016-04-11T21:39:34.550Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-11T22:23:10.390Z] (lobby) (Carnie Moe Sedah was demoted to Room regular user by Ransei.)
+[2016-04-11T22:23:15.719Z] (lobby) Carnie Moe Sedah was promoted to Driver by The Sakurai.
+[2016-04-11T22:23:30.952Z] (lobby) Carnie Moe Sedah was promoted to Room Driver by Ransei.
+[2016-04-11T22:23:53.585Z] (lobby) Ransei is hiding auth symbol as ' '
+[2016-04-12T18:35:07.547Z] (lobby) The Sakurai declared Nixtorm is getting a very special battling tier. More information coming soon!
+[2016-04-12T18:51:26.134Z] (lobby) Aqua Grunt Marik was banned by The Sakurai. (goodbye) (24.45.243.211)
+[2016-04-12T23:05:24.193Z] (lobby) (Nixtorm Bot notes: ambernn was added to the blacklist by  The Sakurai.)
+[2016-04-12T23:18:51.032Z] (lobby) Carnie Moe Sedah was promoted to Room Moderator by The Sakurai.
+[2016-04-13T00:42:19.831Z] (lobby) Amber N_N !o! was banned by Amber n_n. (172.98.85.220)
+[2016-04-13T00:43:13.757Z] (lobby) Amber n_n was promoted to Moderator by Amber n_n.
+[2016-04-13T00:45:49.013Z] (lobby) (Amber n_n was demoted to regular user by Amber n_n.)
+[2016-04-13T01:26:34.869Z] (lobby) Amber n_n was promoted to Driver by Amber n_n.
+[2016-04-13T01:27:10.489Z] (lobby) Amber n_n was promoted to Administrator by Amber n_n.
+[2016-04-13T05:33:31.200Z] (lobby) (Amber n_n was demoted to regular user by Amber n_n.)
+[2016-04-13T15:55:58.876Z] (lobby) (Amber n_n was demoted to regular user by Amber n_n.)
+[2016-04-13T18:06:57.457Z] (lobby) The Sakurai declared There are some problems with hot-patching formats, so battles may not work at the moment. This is being fixed as fast as possible. Sorry for any inconvenience caused.
+[2016-04-13T18:37:22.008Z] (lobby) Giga Rage 5 was muted by Nixtorm Bot for 7 minutes. (Automated response: flooding)
+[2016-04-13T18:38:10.542Z] (lobby) Guest 68 was banned from room lobby by Carnie Moe Sedah.
+[2016-04-13T18:59:31.005Z] (lobby) [gigarage5] was banned by The Sakurai. (209.202.109.147)
+[2016-04-14T17:18:53.083Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-14T17:19:28.823Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-14T17:27:00.273Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-14T19:20:01.842Z] (lobby) Amber n_n was banned from room lobby by Carnie Moe Sedah.
+[2016-04-14T19:22:51.183Z] (lobby) ambernn was unbanned from room lobby by Amber n_n.
+[2016-04-14T19:23:21.184Z] (lobby) Amber n_n was banned from room lobby by Nixtorm Bot. (Blacklisted user)
+[2016-04-14T19:23:21.861Z] (lobby) (Nixtorm Bot notes: ambernn was added to the blacklist by  The Sakurai.)
+[2016-04-14T19:27:38.319Z] (lobby) Amber n_n was banned from room lobby by Nixtorm Bot. (Blacklisted user)
+[2016-04-14T19:43:13.688Z] (lobby) ambernn was unbanned from room lobby by Nixtorm Bot.
+[2016-04-14T20:08:06.504Z] (lobby) MnUmbreon was banned by The Sakurai. (24.45.243.211)
+[2016-04-14T20:08:06.505Z] (lobby) (MnUmbreon's banned alts: SSGW Scott)
+[2016-04-14T21:38:46.219Z] (lobby) DarkChampionMewtwo was banned by The Sakurai. (50.169.171.142)
+[2016-04-14T22:02:44.417Z] (lobby) The Sakurai declared Fear of Long Words: hippopotomonstrosesquipedaliophobia
+[2016-04-14T22:20:00.244Z] (lobby) (The Sakurai set modchat to ~)
+[2016-04-14T22:21:23.491Z] (lobby) Carnie Moe Sedah was promoted to Administrator by The Sakurai.
+[2016-04-14T22:21:34.381Z] (lobby) (The Sakurai set modchat to false)
+[2016-04-14T22:21:47.067Z] (lobby) (Carnie Moe Sedah was demoted to Room regular user by The Sakurai.)
+[2016-04-14T22:22:38.025Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-14T23:41:09.039Z] (lobby) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-15T06:06:07.981Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-15T13:37:56.342Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-15T21:46:36.094Z] (lobby) (Soft Lopunny changed the roomintro.)
+[2016-04-15T21:51:18.584Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-15T21:51:34.943Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-16T15:44:34.337Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-16T15:47:53.828Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-16T15:48:28.544Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-16T15:48:31.299Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-16T15:48:38.287Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-17T09:33:21.110Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-17T15:26:17.674Z] (lobby) DestinedArcanine was banned from room lobby by Carnie Moe Sedah.
+[2016-04-17T16:17:57.736Z] (lobby) destinedarcanine was unbanned from room lobby by DestinedArcanine.
+[2016-04-17T18:42:36.788Z] (lobby) Ransei is hiding auth symbol as ' '
+[2016-04-17T22:31:50.646Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-18T16:44:39.872Z] (lobby) DestinedArcanine was promoted to Administrator by The Sakurai.
+[2016-04-18T20:54:16.827Z] (lobby) W♡ndo was promoted to Developer by The Sakurai.
+[2016-04-19T01:31:28.578Z] (lobby) Demolisher9 was banned by W♡ndo. (75.192.235.133)
+[2016-04-19T01:35:49.856Z] (lobby) Demolisher10 was banned by Ransei. (75.243.139.47)
+[2016-04-19T01:36:04.018Z] (lobby) Demolisher10 was permanently banned by Ransei. (you just got demolished)
+[2016-04-20T04:31:11.102Z] (lobby) Shiny❄Articunos was promoted to Administrator by The Sakurai.
+[2016-04-20T16:30:56.180Z] (lobby) (destinedarcanine was demoted to regular user by Shiny❄Articunos.)
+[2016-04-21T11:09:53.494Z] (lobby) (The Sakurai has set an custom color to shinyarticunos)
+[2016-04-21T13:30:05.614Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-21T13:30:32.220Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-21T17:35:22.354Z] (lobby) (dicksneggr was forced to choose a new name by Shiny Articunos)
+[2016-04-21T17:35:47.543Z] (lobby) fdsfsdfhfdhdh was warned by The Sakurai. (stick to one username pls)
+[2016-04-23T18:22:02.436Z] (lobby) Chirou was promoted to Administrator by The Sakurai.
+[2016-04-23T18:26:28.099Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-23T18:40:58.288Z] (lobby) Executed was banned by The Sakurai. (get the fuck out) (68.199.174.67)
+[2016-04-23T18:52:29.276Z] (lobby) Chirou is hiding auth symbol as ' '
+[2016-04-23T18:56:31.061Z] (lobby) Nixtorm-E was promoted to Moderator by The Sakurai.
+[2016-04-23T19:15:40.082Z] (lobby) Quizzyy was warned by The Sakurai.
+[2016-04-23T19:30:26.398Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-23T19:30:40.463Z] (lobby) (Chirou was demoted to regular user by The Sakurai.)
+[2016-04-23T19:30:50.311Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-23T19:30:53.577Z] (lobby) Chirou was promoted to Administrator by Chirou.
+[2016-04-23T19:31:14.484Z] (lobby) (Chirou was demoted to regular user by Chirou.)
+[2016-04-24T08:25:53.218Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-24T08:26:28.643Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-24T08:27:03.951Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-24T08:27:10.420Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-24T13:04:55.440Z] (lobby) KecleonMarket is hiding auth symbol as ' '
+[2016-04-24T13:05:00.908Z] (lobby) KecleonMarket is hiding auth symbol as ' '
+[2016-04-24T14:38:51.087Z] (lobby) The Sakurai was promoted to Moderator by The Sakurai.
+[2016-04-24T19:30:10.484Z] (lobby) Chirou is hiding auth symbol as '+'
+[2016-04-24T20:33:13.525Z] (lobby) (The Sakurai created a tournament in randombattle format.)
+[2016-04-24T23:43:45.962Z] (lobby) (A game of hangman was started by Ransei.)
+[2016-04-25T17:16:18.639Z] (lobby) (The game of hangman was ended by The Sakurai.)
+[2016-04-25T17:16:26.639Z] (lobby) (The Sakurai created a tournament in randombattle format.)
+[2016-04-25T19:06:08.212Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-25T20:03:15.847Z] (lobby) (Shiny Articunos was demoted to regular user by Shiny Articunos.)
+[2016-04-26T17:30:50.494Z] (lobby) (nixtorme was demoted to regular user by The Sakurai.)
+[2016-04-26T19:09:40.791Z] (lobby) The Sakurai was promoted to Moderator by The Sakurai.
+[2016-04-26T19:09:54.964Z] (lobby) TheNixBot was promoted to Moderator by The Sakurai.
+[2016-04-26T19:10:03.986Z] (lobby) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-26T20:53:57.209Z] (lobby) shivam☆rustagi was muted by Carnie Moe Sedah for 7 minutes.
+[2016-04-26T20:54:09.497Z] (lobby) shivam☆rustagi was unmuted by The Sakurai.
+[2016-04-26T20:55:48.955Z] (lobby) (Chirou was demoted to regular user by Chirou.)
+[2016-04-26T20:56:00.637Z] (lobby) Chirou was kicked from the room by Chirou.
+[2016-04-26T20:56:19.907Z] (lobby) Chirou was warned by Chirou. (LOLLOLOLOLOLOLOLOLOLOL)
+[2016-04-26T20:56:37.749Z] (lobby) The Sakurai was warned by The Sakurai. (LOOOOOOOOOOOOOOOOOOOOL)
+[2016-04-26T20:58:01.586Z] (lobby) Chirou was kicked from the room by Chirou.
+[2016-04-26T20:58:49.439Z] (lobby) shivam☆rustagi was kicked from the room by Chirou.
+[2016-04-26T20:59:33.942Z] (lobby) shivam☆rustagi was banned from room lobby by Carnie Moe Sedah.
+[2016-04-26T20:59:53.470Z] (lobby) shivamrustagi was unbanned from room lobby by The Sakurai.
+[2016-04-26T21:05:59.957Z] (lobby) shivam☆rustagi was banned by Carnie Moe Sedah. (182.64.251.10)
+[2016-04-26T21:06:21.268Z] (lobby) shivam rustagi was unbanned by Chirou.
+[2016-04-26T21:09:58.885Z] (lobby) shivam☆rustagi was permanently banned by Chirou.
+[2016-04-26T21:34:04.956Z] (lobby) Ransei is hiding auth symbol as '@'
+[2016-04-26T22:19:57.031Z] (lobby) The Sakurai was forcibly logged out by The Sakurai.
+[2016-04-26T22:20:58.559Z] (lobby) Carnie Moe Sedah was forcibly logged out by Chirou.
+[2016-04-26T22:21:18.109Z] (lobby) Chirou was forcibly logged out by The Sakurai.
+[2016-04-26T22:32:37.222Z] (lobby) Ransei has revealed their auth symbol.
+[2016-04-26T22:34:50.130Z] (lobby) (The Sakurai created a tournament in randombattle format.)
+[2016-04-26T22:49:16.725Z] (lobby) (Chirou - ⓈⓁⒺⒺⓅ was disqualified from the tournament by Chirou - ⓈⓁⒺⒺⓅ)
+[2016-04-26T23:07:59.902Z] (lobby) Chirou - ⓈⓁⒺⒺⓅ was kicked from the room by The Sakurai - ⓩⓩⓩ.
+[2016-04-26T23:08:14.757Z] (lobby) The Sakurai - ⓩⓩⓩ was banned from room lobby by Chirou - ⓈⓁⒺⒺⓅ.
+[2016-04-26T23:08:34.514Z] (lobby) Chirou - ⓈⓁⒺⒺⓅ was forcibly logged out by The Sakurai - ⓩⓩⓩ.
+[2016-04-27T18:34:04.633Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-04-27T18:35:33.071Z] (lobby) The Sakurai declared Nixtorm now has a brand new website! It features an updated staff list and the official server rules. Also, the League website (designed by Moe) is accessible on the website! The website is accessible through the roomintro, we hope you like it!
+[2016-04-27T20:48:10.467Z] (lobby) (The Sakurai created a tournament in challengecup1v1 format.)
+[2016-04-27T21:30:31.279Z] (lobby) thesakurai was unbanned from room lobby by The Sakurai.
+[2016-04-27T22:55:42.045Z] (lobby) (The tournament auto disqualify timer was set to 2 by The Sakurai)
+[2016-04-27T22:56:24.862Z] (lobby) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-27T22:57:06.529Z] (lobby) CynTheSylveon was warned by TheNixBot. (Automated response: stretching)
+[2016-04-27T23:01:40.157Z] (lobby) CynTheSylveon was warned by Chirou. (Automated responce: not english)
+[2016-04-27T23:03:15.012Z] (lobby) CynTheSylveon was warned by The Sakurai. (really bad english)
+[2016-04-27T23:11:26.559Z] (lobby) Ransei was promoted to Administrator by The Sakurai.
+[2016-04-27T23:12:40.741Z] (lobby) Chirou was promoted to Driver by Chirou.
+[2016-04-27T23:14:05.689Z] (lobby) (A poll was started by The Sakurai.)
+[2016-04-27T23:15:21.767Z] (lobby) Ransei is hiding auth symbol as '@'
+[2016-04-27T23:15:24.351Z] (lobby) Ransei is hiding auth symbol as '%'
+[2016-04-27T23:19:28.243Z] (lobby) Chirou was muted by The Sakurai for 7 minutes. (i feel like trolling as well)
+[2016-04-27T23:19:31.212Z] (lobby) Chirou was unmuted by The Sakurai.
+[2016-04-27T23:23:55.127Z] (lobby) Ransei was muted by Ransei for 1 hour.
+[2016-04-27T23:34:58.723Z] (lobby) Ransei was unmuted by The Sakurai.
+[2016-04-27T23:43:28.986Z] (lobby) CynTheSylveon was warned by TheNixBot. (Automated response: stretching)
+[2016-04-27T23:53:19.544Z] (lobby) CynTheSylveon was muted by TheNixBot for 7 minutes. (Automated response: stretching)
+[2016-04-27T23:53:28.411Z] (lobby) CynTheSylveon was unmuted by The Sakurai.
+[2016-04-27T23:56:06.546Z] (lobby) CynTheSylveon was muted by TheNixBot for 7 minutes. (Automated response: stretching)
+[2016-04-28T04:18:42.854Z] (lobby) Soft Lopunny is hiding auth symbol as ' '
+[2016-04-28T19:00:50.525Z] (lobby) Ambiepom was unlocked by The Sakurai.
+[2016-04-29T20:24:13.210Z] (lobby) The Sakurai declared Be sure to check out Moe's epic Youtube Channel and subscribe, as a lot of new content is being uploaded today!
+[2016-04-29T20:39:31.489Z] (lobby) The Sakurai declared Also, check out Chirou's YouTube Channel! 
+[2016-04-29T21:12:26.776Z] (lobby) The Sakurai declared Be sure to check out Moe's amazing YouTube Channel, there are loads of new videos of some awesome battles that have taken place right here on Nixtorm!
+[2016-04-29T21:12:36.533Z] (lobby) The Sakurai declared Make sure to subscribe!
+[2016-04-29T21:13:23.468Z] (lobby) The Sakurai declared And Chirou's channel too...
+[2016-04-29T22:17:26.842Z] (lobby) The Sakurai declared Nixtorm has been up for 4 months!
+[2016-04-29T22:29:27.766Z] (lobby) TerminalHydreigon was locked from talking by Chirou.
+[2016-04-29T22:29:43.786Z] (lobby) TerminalHydreigon was unlocked by The Sakurai.
+[2016-05-01T19:57:42.097Z] (lobby) (The Sakurai changed the roomintro.)
+[2016-05-02T09:53:34.632Z] (lobby) test alt no 1 was promoted to Moderator by Chirou.
+[2016-05-02T18:07:51.180Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:52.960Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:53.347Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:53.647Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:53.947Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:54.248Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:54.548Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:54.849Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:55.149Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:55.449Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:55.750Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:56.051Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:56.351Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:56.651Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:56.953Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:57.252Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:57.553Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:57.853Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:58.153Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:58.452Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:58.752Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:59.052Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:59.353Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:59.654Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:07:59.954Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:00.254Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:00.555Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:00.857Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:01.159Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:01.467Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:01.769Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:02.071Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:02.371Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:02.672Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:02.973Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:03.274Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:03.574Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:03.875Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:04.176Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:04.477Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:04.778Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:05.079Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:05.380Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:05.680Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:05.980Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:06.280Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:06.580Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:06.880Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:08:07.180Z] (lobby) Chirou globally declared In~Casing has declared that they no longer own Nixtorm!
+[2016-05-02T18:09:33.631Z] (lobby) In~Casing declared Chirou is a faggot who sucks rotten dicks ╭∩╮(-_-)╭∩╮
+[2016-05-02T18:21:47.245Z] (lobby) (In~Casing was demoted to regular user by Chirou.)
+[2016-05-02T18:22:23.585Z] (lobby) In~Casing was kicked from the room by Chirou.
+[2016-05-02T18:22:33.314Z] (lobby) Carnie Moe Sedah was kicked from the room by In~Casing.
+[2016-05-02T18:22:38.705Z] (lobby) In~Casing was kicked from the room by Chirou.
+[2016-05-02T18:22:41.648Z] (lobby) In~Casing was kicked from the room by Chirou.
+[2016-05-02T18:22:44.320Z] (lobby) In~Casing was kicked from the room by Chirou.
+[2016-05-02T18:22:47.703Z] (lobby) In~Casing was kicked from the room by Chirou.
+[2016-05-02T18:22:50.860Z] (lobby) In~Casing send a popup message to Chirou
+[2016-05-02T18:24:44.791Z] (lobby) Chirou was unlocked by In~Casing.

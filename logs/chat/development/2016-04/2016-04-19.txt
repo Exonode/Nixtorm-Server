@@ -1,0 +1,167 @@
+00:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+00:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+00:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+00:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+00:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+00:57:52 |j|~Ransei
+00:57:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+01:07:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+01:09:53 |j| The Run
+01:10:06 |l| The Run
+01:17:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+01:27:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+01:37:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+01:47:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+01:57:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:07:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:17:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:27:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:37:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:47:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:57:58 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:59:21 |l|~Ransei
+03:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+03:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+03:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+03:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+03:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+03:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+04:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+04:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+04:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+04:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+04:40:08 |j|~DestinedArcanine
+04:42:35 (DestinedArcanine changed the roomintro.)
+04:42:35 <div style="border: 2px solid black ; border-radius: 5px ; background: url(http://img07.deviantart.net/b667/i/2014/254/5/c/pokemon___wally_and_mega_gallade_by_sa_dui-d7ysbl2.jpg); no-repeat ; background-size: cover"><br><center><img style="background: rgba(0 , 0 , 0 , 0.5) ; border: none ; padding: 4px ; border-radius: 5px ; box-shadow: inset 0px 0px 10px cyan" src="//i.imgur.com/0jmEzzz.png?1?1" width="400" height="70" alt="The Storm League" title="Welcome To The Storm!"></center><br><center><img src="//i.imgur.com/Ndbl0Cv.png?1" width="250" height="50" style="background: rgba(215 , 188 , 30 , 0.5) ; border: none ; border-radius: 5px ; padding: 5px ; color: white ; text-shadow: 4px 3px 3px black ; box-shadow: inset 0px 0px 10px black ; font-family: &quot;verdana&quot;"><br>&nbsp;&nbsp;<button class="astext" name="parseCommand" value="/user Lunterik"><img src="//play.pokemonshowdown.com/sprites/trainers/281.png" height="80" width="80"><br><font style="color: white ; text-shadow: 2px 2px 4px black">Lunterik</font></button> <button class="astext" name="parseCommand" value="/user Quizzyy"><img src="//158.69.205.118:7000/avatars/quizzyy.png" height="80" width="80"><br><font style="color: white ; text-shadow: 2px 2px 4px black">Quizzyy</font></button> <button class="astext" name="parseCommand" value="/user ShinxTheJinx"><img src="//158.69.205.118:7000/avatars/shinxthejinx.gif" height="80" width="80"><br><font style="color: white ; text-shadow: 2px 2px 4px black">ShinxTheJinx</font></button></center><br><center><a href="https://docs.google.com/spreadsheets/d/1rrT1EIjl2zikkIoT1pbPNwJQEDM0V6XRNeZMJ2Nuz6U/edit#gid=0" target="_blank"> <button style="background: #808080 ; box-shadow: inset 0px 0px 10px #262627 ; padding: 5px ; border: none ; border-radius: 5px ; text-shadow: 0px 0px 2px black"> League's Members</button></a><a href=" " target="_blank"><button style="background: #808080 ; box-shadow: inset 0px 0px 10px #262626 ; padding: 5px ; border: none ; border-radius: 5px ; text-shadow: 0px 0px 2px black">To Be Announced</button></a></center><br><center><div style="background: #1a1a1a ; text-shadow: 2px 2px 5px black ; color: white ; box-shadow: inset 0px 0px 10px #404040 ; border: 1px solid black ; border-radius: 5px ; width: 70% ; font-family: &quot;comic sans ms&quot; ; padding: 3px"><marquee>Announcements: Welcome To League. Hope you enjoy your stay, We will be happy to acist you in any pokemon knowledge and or questions </marquee><center><audio controls="" src="http://216.227.134.162/ost/samurai-champloo-music-record-1-departure-nujabes-fat-...-/tikdciwlav/03-aruarian-dance.mp3"></audio></center></div></center><br></div>
+04:42:40 |l|~DestinedArcanine
+04:45:42 |j|~DestinedArcanine
+04:45:45 |l|~DestinedArcanine
+04:45:56 |j|~DestinedArcanine
+04:46:05 |l|~DestinedArcanine
+04:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+04:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+05:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+05:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+05:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+05:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+05:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+05:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:34:08 |j| The Run
+10:34:22 |l| The Run
+10:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+13:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+13:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+13:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+13:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+13:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+13:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+16:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+16:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+16:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+16:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+16:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+16:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+17:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+17:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+17:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+17:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+17:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+17:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+18:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+18:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+18:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+18:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+18:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+18:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+19:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+19:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+19:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+19:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+19:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+19:49:10 |j| The Run
+19:49:14 |l| The Run
+19:52:32 |j| HoeenHero
+19:53:32 |j|~Destined♥Arcanine
+19:53:35 |l|~Destined♥Arcanine
+19:53:44 |l| HoeenHero
+19:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+20:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+20:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+20:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+20:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+20:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+20:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+21:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+21:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+21:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+21:30:51 |j| HoeenHero
+21:33:40 |n| The ideal Pokemon|hoeenhero
+21:37:58 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+21:47:58 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+21:57:58 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+22:05:14 |l| The ideal Pokemon
+22:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+22:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+22:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+22:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+22:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+22:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+23:07:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+23:17:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+23:27:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+23:37:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+23:47:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+23:57:58 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0

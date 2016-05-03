@@ -1,0 +1,60 @@
+[2016-04-02T20:57:04.900Z] (staff) BAN: [theblindguardian] by Amber n_n
+[2016-04-04T00:38:19.221Z] (lobby) BAN: [swlerica] by The Sakurai
+[2016-04-04T08:28:14.348Z] (ideas) LOCK: [darkchampionmewtwo] by The Sakurai: Permalock
+[2016-04-05T12:09:26.247Z] (lobby) LOCK: [sokups] by DuosionCoder
+[2016-04-05T12:10:29.686Z] (ideas) BAN: [sokups] by The Sakurai: goodbye ggdaca
+[2016-04-06T22:55:19.706Z] (lobby) BAN: [glaciaguardian] by Amber n_n
+[2016-04-06T23:04:36.941Z] (lobby) BAN: [milkquake] by Amber n_n
+[2016-04-07T03:52:16.729Z] (lobby) LOCK: [thesakurai] by The Sakurai: fuck showdown
+[2016-04-07T03:52:53.712Z] (lobby) UNLOCK: [thesakurai] by Amber n_n
+[2016-04-07T04:08:17.732Z] (lobby) BAN: [thesakurai] by The Sakurai: test
+[2016-04-07T04:09:18.318Z] (lobby) UNBAN: [thesakurai] by Amber n_n
+[2016-04-07T04:09:23.675Z] (lobby) UNLOCK: [thesakurai] by Amber n_n
+[2016-04-08T03:29:50.928Z] (staff) BAN: [iwillsmuggleurtoot] by Amber n_n: troll
+[2016-04-08T13:27:49.048Z] (lobby) BAN: [dellven] by The Sakurai
+[2016-04-09T11:44:03.950Z] (lobby) BAN: [ssweldes] by the sakurai
+[2016-04-09T21:06:20.782Z] (staff) BAN: [ambernn] by The Sakurai
+[2016-04-09T21:34:00.028Z] (lobby) UNBAN: [ambernn] by The Sakurai
+[2016-04-09T21:50:57.052Z] (lobby) UNLOCK: [ambernn] by The Sakurai
+[2016-04-10T02:46:35.364Z] (lobby) LOCK: [thesakurai] by The Sakurai
+[2016-04-10T02:47:09.075Z] (lobby) UNLOCK: [thesakurai] by The Sakurai
+[2016-04-10T02:55:19.010Z] (ideas) LOCK: [ransei] by Ransei
+[2016-04-10T02:55:36.714Z] (staff) UNLOCK: [ransei] by The Sakurai
+[2016-04-10T14:31:57.970Z] (ideas) BAN: [aaleo] by The Sakurai
+[2016-04-11T21:38:49.063Z] (lobby) BAN: [darkchampionmewtwo] by The Sakurai
+[2016-04-12T18:51:26.135Z] (lobby) BAN: [aquagruntmarik] by The Sakurai: goodbye
+[2016-04-12T22:31:18.428Z] (ideas) BAN: [ambernn] by The Sakurai: bye
+[2016-04-12T23:20:08.799Z] (casino) UNBAN: [ambernn] by The Sakurai
+[2016-04-13T00:42:19.841Z] (lobby) BAN: [ambernno] by Amber n_n
+[2016-04-13T01:34:51.912Z] (staff) BAN: [begen33] by Amber n_n: posting porn
+[2016-04-13T06:10:44.096Z] (ideas) BAN: [darkchampionmewtwo] by The Sakurai
+[2016-04-13T16:07:40.678Z] (ideas) LOCK: [ambernn] by The Sakurai
+[2016-04-13T18:59:31.006Z] (lobby) BAN: [gigarage5] by The Sakurai
+[2016-04-14T19:25:36.870Z] (staff) BAN: [ambernn] by The Sakurai
+[2016-04-14T20:08:06.506Z] (lobby) BAN: [mnumbreon] by The Sakurai
+[2016-04-14T21:30:07.793Z] (casino) BAN: [ambernn] by The Sakurai: permaban
+[2016-04-14T21:38:46.221Z] (lobby) BAN: [darkchampionmewtwo] by The Sakurai
+[2016-04-14T23:55:51.731Z] (ideas) UNBAN: [ambernn] by The Sakurai
+[2016-04-15T16:52:54.434Z] (casino) UNLOCK: [ambernn] by The Sakurai
+[2016-04-15T17:28:29.422Z] (blizzardleague) UNLOCK: [mystikpanda] by The Sakurai
+[2016-04-18T15:25:55.627Z] (casino) BAN: [aaleo] by The Sakurai
+[2016-04-19T01:31:28.581Z] (lobby) BAN: [demolisher9] by W♡ndo
+[2016-04-19T01:35:49.859Z] (lobby) BAN: [demolisher10] by Ransei
+[2016-04-23T18:40:58.297Z] (lobby) BAN: [executed] by The Sakurai: get the fuck out
+[2016-04-23T18:47:52.954Z] (staff) UNBAN: [executed] by ShinyArticunos
+[2016-04-23T18:48:34.611Z] (staff) UNLOCK: [executed] by ShinyArticunos
+[2016-04-25T19:51:28.245Z] (staff) BAN: [newuser30] by Shiny Articunos
+[2016-04-26T00:18:34.039Z] (staff) BAN: [hyrulewarriors1] by Ransei
+[2016-04-26T05:53:27.613Z] (casino) BAN: [ambiepom] by The Sakurai
+[2016-04-26T05:53:37.503Z] (casino) UNBAN: [ambiepom] by The Sakurai
+[2016-04-26T21:05:59.962Z] (lobby) BAN: [shivamrustagi] by Carnie Moe Sedah
+[2016-04-26T21:06:21.268Z] (lobby) UNBAN: [shivamrustagi] by Chirou
+[2016-04-26T21:21:47.870Z] (staff) UNBAN: [shivamrustagi] by The Sakurai
+[2016-04-26T21:22:13.414Z] (staff) UNLOCK: [shivamrustagi] by The Sakurai
+[2016-04-28T19:00:50.647Z] (lobby) UNLOCK: [ambiepom] by The Sakurai
+[2016-04-29T05:31:27.454Z] (shadowbanroom) BAN: [frostking23] by The Sakurai
+[2016-04-29T22:29:27.766Z] (lobby) LOCK: [terminalhydreigon] by Chirou
+[2016-04-29T22:29:43.786Z] (lobby) UNLOCK: [terminalhydreigon] by The Sakurai
+[2016-05-02T18:24:01.895Z] (staff) BAN: [chirou] by In~Casing: hehe
+[2016-05-02T18:24:07.878Z] (staff) UNBAN: [chirou] by In~Casing
+[2016-05-02T18:24:44.791Z] (lobby) UNLOCK: [chirou] by In~Casing

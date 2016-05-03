@@ -1,0 +1,431 @@
+00:06:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+00:16:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+00:23:52 |j|~Carnie Moe Sedah
+00:26:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+00:36:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+00:39:38 |j| Mighty Sciz
+00:39:43 |l| Mighty Sciz
+00:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+00:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+01:02:34 |l|~Destined♥Arcanine
+01:06:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+01:16:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+01:26:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+01:34:40 |j| Pensador
+01:35:06 |c| Pensador|Oi
+01:36:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+01:36:33 |l| Pensador
+01:39:44 |j| Ambiepom♥
+01:39:53 |l| Ambiepom♥
+01:39:53 |j|~Destined♥Arcanine
+01:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+01:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+02:01:31 |l|~Carnie Moe Sedah
+02:06:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:16:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:26:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:36:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:39:44 |j| Winter’sPeak
+02:46:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:56:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:58:30 |l|~Ransei
+03:01:31 |j|~Carnie Moe Sedah
+03:06:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:12:20 |j|~Soft Lopunny
+03:16:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+03:26:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+03:36:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+03:46:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+03:56:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+04:03:00 |j| The Run
+04:04:43 |l| The Run
+04:06:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+04:16:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:3
+04:18:03 |j|*The Sakurai
+04:18:41 |n| The Sakurai|thesakurai
+04:25:42 |n| FrostedArticuno|destinedarcanine
+04:26:08 |l|frostedarticuno
+04:26:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+04:26:14 |j|~destinedarcanine
+04:29:18 |l| Winter’sPeak
+04:29:41 |n| Shiny Articunos|destinedarcanine
+04:30:21 |n| Shiny❄Articunos|shinyarticunos
+04:30:47 |n| Shiny❄Articunos|shinyarticunos
+04:31:11 Shiny❄Articunos was promoted to Administrator by The Sakurai.
+04:31:11 |n|~Shiny❄Articunos|shinyarticunos
+04:31:12 |c| The Sakurai|<3
+04:31:14 |l| The Sakurai
+04:31:15 |j| The Sakurai
+04:31:19 |l| The Sakurai
+04:31:20 |j| The Sakurai
+04:31:23 |raw|<div class='chat'><small>~</small><button name='parseCommand' value='/user Shiny❄Articunos' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#309FBB'>Shiny❄Articunos:</font></b></button><em class='mine'><img src="http://i.imgur.com/gu3Osve.png" title="feelsok" height="50" width="50" /></em></div>
+04:32:15 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user The Sakurai' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#1BB675'>The Sakurai:</font></b></button><em class='mine'><img src="http://i.imgur.com/1W19BDG.png" title="feelshp" height="50" width="50" /></em></div>
+04:36:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:3
+04:42:22 |l|~Soft Lopunny
+04:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+04:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+05:06:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+05:16:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+05:24:35 |j| firebreathingyoshi
+05:24:38 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user firebreathingyoshi' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#A147BC'>firebreathingyoshi:</font></b></button><em class='mine'>Hello everyone! Brrr, its cold here! <img src="http://i.imgur.com/gu3Osve.png" title="feelsok" height="50" width="50" /></em></div>
+05:25:05 |c| The Sakurai|hi o/
+05:26:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+05:36:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+05:43:42 |l|shinyarticunos
+05:46:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+05:56:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+06:06:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:1
+06:08:32 |l| The Sakurai
+06:16:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+06:23:56 |l|~Carnie Moe Sedah
+06:26:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:36:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:37:47 |l| firebreathingyoshi
+06:46:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+06:56:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:36:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:46:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+07:56:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:36:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:46:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+08:56:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:36:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:46:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+09:56:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:36:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:46:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+10:56:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:02:47 |j| The Run
+11:03:01 |l| The Run
+11:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:36:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:46:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+11:56:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:36:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+12:39:18 |j|~Carnie Moe Sedah
+12:46:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+12:56:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:06:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:16:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:26:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:36:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:46:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+13:56:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+14:02:13 |l|~Carnie Moe Sedah
+14:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:36:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:46:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+14:56:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:06:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:16:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:26:09 |userstats|total:0|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+15:28:03 |j|~Carnie Moe Sedah
+15:30:22 |j|~Shiny Articunos
+15:31:18 |n|~Shiny❄Articunos|shinyarticunos
+15:36:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+15:46:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+15:56:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+15:57:46 |l|~Carnie Moe Sedah
+16:00:02 |j| carnie r4tch3t
+16:00:20 |l| carnie r4tch3t
+16:06:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+16:12:49 |j|~Carnie Moe Sedah
+16:16:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+16:16:24 |j| Genshi Groudon
+16:16:34 |l| Genshi Groudon
+16:17:50 |j| HoeenHero
+16:18:19 |l| HoeenHero
+16:26:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+16:30:17 |c|~Shiny❄Articunos|.
+16:30:56 (destinedarcanine was demoted to regular user by Shiny❄Articunos.)
+16:35:51 |j|*The Sakurai
+16:36:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:1|~:2
+16:36:37 |j|@Sakurais Minion
+16:37:46 |l|*The Sakurai
+16:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+16:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+16:56:48 |j|*The Sakurai
+16:56:59 |n| The Sakurai|thesakurai
+17:00:12 |j| HoeenHero
+17:06:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:10:35 |b|battle-randombattle-264|@Sakurais Minion| HoeenHero
+17:10:51 |l| The Sakurai
+17:16:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+17:19:21 |j| The Sakurai
+17:19:25 |l| The Sakurai
+17:19:28 |j| The Sakurai
+17:19:30 |l| The Sakurai
+17:19:33 |j| The Sakurai
+17:26:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+17:27:56 |l|~Carnie Moe Sedah
+17:35:03 |c| HoeenHero|hello
+17:35:14 |c|~Shiny❄Articunos|Hey
+17:35:21 |c| HoeenHero|nice place
+17:36:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+17:38:00 |c| The Sakurai|ty
+17:41:27 |c| HoeenHero|id send in a developer application but I don't meet one of the requirements
+17:41:40 |c| The Sakurai|which one
+17:41:56 |c| The Sakurai|if its the last one
+17:41:56 |c| The Sakurai|dw
+17:41:59 |c| HoeenHero|have a tab open on c9. I don't have a c9 account 
+17:42:10 |c| The Sakurai|you gotta have a c9 account
+17:42:10 |c| HoeenHero|nor do I plan to make one
+17:42:11 |c| The Sakurai|lol
+17:42:18 |c| The Sakurai|rip to that
+17:42:20 |c| The Sakurai|lmao
+17:42:22 |c| HoeenHero|oh well
+17:42:59 |c| HoeenHero|is there anyway for non-developers to contribute?
+17:44:05 |c|~Shiny❄Articunos|Of course XD
+17:44:12 |c| HoeenHero|I saw the development room and was hoping there was xD
+17:45:04 |c| HoeenHero|well maybe theres something I can help you guys out with
+17:45:21 |c| HoeenHero|just depends, what do you guys want/need done atm
+17:45:37 |c| The Sakurai|hmm
+17:45:40 |c| The Sakurai|i cant think of anything
+17:46:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+17:46:14 |c| HoeenHero|rip
+17:46:37 |c|~Shiny❄Articunos|You can bring me food ;-;
+17:46:43 |c| HoeenHero|lol
+17:47:49 |c| HoeenHero|do you guys have custom commands?
+17:47:54 |c| The Sakurai|yes
+17:48:16 |l| The Sakurai
+17:48:16 |c| HoeenHero|oh cool
+17:48:17 |j| The Sakurai
+17:48:18 |l| The Sakurai
+17:48:19 |j| The Sakurai
+17:50:33 |c| HoeenHero|I cant come up with anything right now :/
+17:50:38 |c| The Sakurai|its ok.
+17:51:08 |c| HoeenHero|be sure to tell me if you have an idea, even if it seems impossible there might be a chance it is possible
+17:51:21 |c| The Sakurai|kk
+17:51:35 |c| HoeenHero|just don't say rotation battles / multi battles
+17:51:43 |c| HoeenHero|too many people have ask me for that xD
+17:52:15 |c| The Sakurai|lol
+17:56:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+17:56:20 |c| HoeenHero|possibly a tier of somekind?
+17:56:28 |c| The Sakurai|no no no
+17:56:33 |c| The Sakurai|last time we tried to make a tier
+17:56:33 |c| HoeenHero|ok
+17:56:37 |c| The Sakurai|the server went down
+17:56:40 |c| The Sakurai|for a day
+17:56:47 |c| HoeenHero|you probably screwed something up
+17:56:57 |c| The Sakurai|wasnt me
+17:56:58 |c| HoeenHero|ive don't multiple tiers before
+17:57:09 |c| HoeenHero|ok whoever it was
+17:57:16 |c| The Sakurai|we tried to make ssb
+17:57:17 |c| HoeenHero|ive done*
+17:57:20 |c| The Sakurai|broke the server
+17:57:28 |c| HoeenHero|did you declare a mod?
+17:57:33 |c| The Sakurai|i didnt do anything
+17:57:35 |c| The Sakurai|it was clawliet
+17:58:14 |c| HoeenHero|did he test it on a test server first?
+17:58:47 |c| HoeenHero|that's important I crash things about 50 times before its ready to go lol. That's why I have a prvate test server
+17:58:48 |c| The Sakurai|no
+17:58:52 |c| The Sakurai|lol
+17:59:09 |c| The Sakurai|alot of stuff doesnt work on this server
+17:59:12 |c| The Sakurai|its om tho
+17:59:14 |c| The Sakurai|ok*
+17:59:30 |c| HoeenHero|I can help fix some of that. How old is the servers code?
+18:00:04 |c| HoeenHero|if its like 6 months or something then I can see that
+18:00:17 |c| HoeenHero|gotta keep up with zarel
+18:00:35 |j|~Carnie Moe Sedah
+18:00:58 |c| The Sakurai|its about a week old
+18:01:08 |c| The Sakurai|i update about once every 3 weeks
+18:01:14 |c| The Sakurai|but its a lengthy process
+18:01:25 |c| HoeenHero|that's great to hear
+18:01:36 |c| The Sakurai|ok
+18:01:37 |c| HoeenHero|whats broken right now?
+18:01:40 |c| The Sakurai|nothing
+18:01:44 |c| The Sakurai|the servers working fine
+18:01:49 |c| HoeenHero|[13:59:13]  The Sakurai: alot of stuff doesnt work on this server
+18:01:55 |c| The Sakurai|when new commands are made
+18:01:59 |c| The Sakurai|so i dont add new commands
+18:02:03 |c| The Sakurai|not often anyway
+18:02:17 |c| HoeenHero|so the custom stuff isn't working
+18:02:21 |c| The Sakurai|alot of it
+18:02:22 |c| The Sakurai|yeah
+18:02:30 |c| The Sakurai|people just tend to break the server
+18:02:36 |c| HoeenHero|:(
+18:02:37 |c| The Sakurai|thats why the application was made
+18:02:58 |c| HoeenHero|makes sense
+18:03:04 |c| The Sakurai|mhm
+18:03:21 |c| HoeenHero|one reason reviewing code before commiting is a good idea
+18:03:37 |c| The Sakurai|we dont have enough coders to do that
+18:04:01 |c| HoeenHero|I could send you a hastebin of whatever I make, and its up to you weather or not to implement. Ofc I can answer questions on it
+18:04:03 |c| The Sakurai|only person who really ''commits'' new stuff to the server is me
+18:04:04 |c| The Sakurai|lmao
+18:04:12 |c| The Sakurai|yeah
+18:04:15 |c| The Sakurai|that sounds ok
+18:04:20 |c| HoeenHero|ive seen it on a lot of servers
+18:04:28 |c| The Sakurai|mk
+18:05:11 |c| HoeenHero|so.. is there any command sespificly you want me to take a look at?
+18:05:41 |c| The Sakurai|not atm
+18:05:44 |c| The Sakurai|sorry
+18:05:57 |c| HoeenHero|kk
+18:06:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:06:16 |c| HoeenHero|well if you want i can make the shell for a SSB tier
+18:06:21 |c| The Sakurai|ok
+18:08:08 |c| HoeenHero|k let me get started on that, be sure to give me some sets to add before testing or it will crash. Info i need is: species, item, gender (M, F, N, or random M/F), 3 moves, custom move name and what it dose, evs, and nature
+18:08:24 |c| The Sakurai|here we go again
+18:08:25 |c| The Sakurai|lol
+18:08:31 |c| The Sakurai|i hope it works this time
+18:08:40 |c| HoeenHero|ill test it before submiting
+18:08:48 |c| The Sakurai|last time i had to get fender to fix it all
+18:08:50 |c| The Sakurai|lol
+18:09:00 |c| The Sakurai|and idk how to add this to the c9
+18:09:04 |c| HoeenHero|im basing my code on this: https://github.com/Zarel/Pokemon-Showdown/tree/master/mods/seasonal
+18:09:14 |c| The Sakurai|or if there will be enough spac
+18:09:16 |c| The Sakurai|space*
+18:09:30 |c| The Sakurai|the server only runs on 500MB
+18:09:46 |c| HoeenHero|i can tell you what folders to put stuff in, also it shouldn't be too big
+18:10:09 |c| HoeenHero|minor edit to ``config/formats.js`` add a folder in mods and put 2 files in it
+18:10:17 |c| HoeenHero| simple
+18:10:47 |c| The Sakurai|kk
+18:16:09 |userstats|total:6|guests:1| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:16:20 |c| HoeenHero|ready to add pokemon
+18:16:31 |j| Mr.Poods
+18:16:33 |raw|<div class='chat'><small> </small><button name='parseCommand' value='/user Mr.Poods' style='background:none;border:0;padding:0 5px 0 0;font-family:Verdana,Helvetica,Arial,sans-serif;font-size:9pt;cursor:pointer'><b><font color='#19B6D2'>Mr.Poods:</font></b></button><em class='mine'>Hello everyone! Brrr, its cold here! <img src="http://i.imgur.com/gu3Osve.png" title="feelsok" height="50" width="50" /></em></div>
+18:17:44 |c| The Sakurai|hey mr poods
+18:17:46 |raw|-- <font color='#1BB675'><strong>The Sakurai</strong></font> is now away.
+18:17:46 |n| The Sakurai - ⒶⓌⒶⓎ|thesakurai
+18:17:46 |n| The Sakurai - ⒶⓌⒶⓎ|thesakurai
+18:18:10 |j| Elcrest
+18:18:15 |c| Elcrest|Hey The Sakurai
+18:18:30 |n| The Sakurai|thesakurai
+18:18:30 |n| The Sakurai|thesakurai
+18:18:30 |raw|-- <font color='#1BB675'><strong>The Sakurai</strong></font> is no longer away.
+18:18:36 |c| The Sakurai|hey Elcrest
+18:18:37 |c| The Sakurai|o/
+18:18:41 |c| Elcrest|\o
+18:19:07 |c| Elcrest|Why's the c9 for Nixtorm on the intro??
+18:19:12 |c| HoeenHero|ill get the moves.js file ready while i wait?
+18:21:19 |c| The Sakurai|oh
+18:21:26 |c| The Sakurai|this is an open source server
+18:22:32 |c| Elcrest|Oh nice
+18:22:46 |c| Elcrest|Anyway gtg
+18:22:51 |c| The Sakurai|okie
+18:22:52 |c| HoeenHero|seeya
+18:22:56 |c| The Sakurai|bye Elcrest
+18:22:57 |c| The Sakurai|o/
+18:23:06 |c| Elcrest|Bye The Sakurai \o
+18:23:13 |c| The Sakurai|\o
+18:23:15 |l| The Sakurai
+18:23:17 |j| The Sakurai
+18:23:18 |l| The Sakurai
+18:23:19 |j| The Sakurai
+18:23:23 |l|elcrest
+18:24:32 |c| HoeenHero|shell is done
+18:24:38 |c| The Sakurai|ok
+18:26:09 |userstats|total:6|guests:0| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:26:09 |c| HoeenHero|be sure to send in your pokemon once their ready
+18:26:46 |c| The Sakurai|ill declare it
+18:26:49 |c| The Sakurai|once your reasy
+18:26:51 |c| The Sakurai|ready*
+18:27:18 |c| HoeenHero|ready to recive sets? i am. Nothing to do left until i get them
+18:27:35 |c| The Sakurai|okie
+18:27:42 |c| The Sakurai|ill talk to the other admins about it
+18:27:50 |c| The Sakurai|and thx HoeenHero
+18:28:17 |c| HoeenHero|np
+18:36:09 |userstats|total:6|guests:0| :2|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:40:57 |l| Mr.Poods
+18:46:09 |userstats|total:5|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:51:45 |c| The Sakurai|bbl everyone
+18:51:47 |c| The Sakurai|take care
+18:52:20 |c| HoeenHero|bbl
+18:52:22 |l| HoeenHero
+18:56:09 |userstats|total:4|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:2
+18:57:59 |n|~ShinyArticunos|shinyarticunos
+18:58:19 |n| AfkArticunos|shinyarticunos
+19:06:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+19:11:18 |l| The Sakurai
+19:16:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+19:26:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+19:36:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+19:37:08 |l| AfkArticunos
+19:38:49 |l|~Carnie Moe Sedah
+19:38:52 |l|@Sakurais Minion
+19:39:53 |j|@Sakurais Minion
+19:46:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:0
+19:52:10 |l|@Sakurais Minion
+19:53:11 |j|@Sakurais Minion
+19:56:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:0
+19:59:27 |j| The Sakurai
+20:06:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:0
+20:07:34 |j| Enmadou Rokuro
+20:07:35 |l| Enmadou Rokuro
+20:10:12 |l| The Sakurai
+20:10:16 |j| The Sakurai
+20:10:18 |l| The Sakurai
+20:10:22 |j| The Sakurai
+20:11:10 |l| The Sakurai
+20:11:14 |j| The Sakurai
+20:11:32 |l| The Sakurai
+20:11:36 |j| The Sakurai
+20:11:42 |l|thesakurai
+20:11:50 |j|*The Sakurai
+20:13:22 |l|*The Sakurai
+20:13:27 |j|*The Sakurai
+20:13:58 |l|*The Sakurai
+20:15:06 |j|*The Sakurai
+20:16:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:0
+20:17:28 |l|@Sakurais Minion
+20:18:30 |j|@Sakurais Minion
+20:19:52 |j| The Run
+20:19:52 |l| The Run
+20:19:57 |j| The Run
+20:19:59 |l|therun
+20:23:21 |n| The Sakurai|thesakurai
+20:26:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:0
+20:36:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:0
+20:37:35 |j| firebreathingyoshi
+20:40:11 |l| firebreathingyoshi
+20:44:50 |j|~Ransei
+20:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+20:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+20:57:23 |l|~Ransei
+21:06:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:0
+21:08:05 |l| The Sakurai
+21:08:09 |j| The Sakurai
+21:14:22 |j| HoeenHero
+21:14:49 |c| HoeenHero|hello
+21:16:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:0
+21:18:05 |j| Ambiepom
+21:18:13 |n|~ShinyArticunos|ambiepom
+21:26:09 |userstats|total:4|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+21:31:16 |l| HoeenHero
+21:36:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+21:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+21:56:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+22:06:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+22:16:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+22:26:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+22:36:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+22:46:09 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:1|~:1
+22:55:38 |l| The Sakurai
+22:56:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+23:06:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+23:13:07 |j| firebreathingyoshi
+23:16:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+23:26:09 |userstats|total:3|guests:0| :1|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+23:32:41 |l| firebreathingyoshi
+23:36:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+23:40:16 |l|@Sakurais Minion
+23:46:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+23:56:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1

@@ -1,0 +1,103 @@
+00:06:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+00:16:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+00:26:09 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+00:29:47 |n| AfkArticunos|shinyarticunos
+00:36:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+00:46:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+00:56:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+01:06:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+01:16:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+01:26:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+01:36:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+01:46:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+01:56:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+02:06:09 |userstats|total:1|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:0
+02:08:58 |j|~Carnie Moe Sedah
+02:16:09 |userstats|total:2|guests:0| :1|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+02:24:46 |n|~ShinyArticunos|afkarticunos
+02:26:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:36:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:46:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+02:56:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:06:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:16:09 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:17:36 |l|~Carnie Moe Sedah
+03:22:30 |j|~Carnie Moe Sedah
+03:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:30:59 |l|~ShinyArticunos
+03:36:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+03:42:30 |j|~ShinyArticunos
+03:42:35 |n|~Shiny❄Articunos|shinyarticunos
+03:46:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+03:56:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:06:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:16:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:36:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:46:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+04:56:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:06:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:16:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:36:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:46:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+05:56:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+06:06:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+06:16:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+06:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+06:36:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+06:46:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:2
+06:48:32 |l|~Carnie Moe Sedah
+06:56:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:06:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:16:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:26:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:36:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:37:47 |l|~Shiny❄Articunos
+07:37:59 |j|~Shiny❄Articunos
+07:46:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+07:56:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+08:06:10 |userstats|total:1|guests:0| :0|+:0|$:0|%:0|@:0|★:0|&:0|❆:0|#:0|*:0|~:1
+08:13:47 |j|@Sakurais Minion
+08:16:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+08:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+08:36:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+08:46:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+08:56:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+09:06:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+09:16:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+09:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+09:36:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+09:46:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+09:56:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+10:06:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+10:16:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+10:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+10:36:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+10:39:00 |j|~Ransei
+10:46:10 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+10:54:22 (The Sakurai used /hotpatch chat)
+10:55:35 (The Sakurai used /hotpatch chat)
+10:56:10 |userstats|total:3|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:2
+10:58:13 |l|~Ransei
+11:04:51 |raw|Shiny Articuno has recieved a <b><font color=#FF1C7F>custom color</font></b> from The Sakurai.
+11:05:50 |l|~Shiny❄Articunos
+11:06:05 |j|~Shiny❄Articunos
+11:06:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+11:09:58 |j| The Sakurai
+11:10:01 |l| The Sakurai
+11:14:32 (The Sakurai used /hotpatch chat)
+11:15:11 |l|~Shiny❄Articunos
+11:15:22 |j|~Shiny❄Articunos
+11:15:38 |raw|Shiny❄Articunos has recieved a <b><font color=#FF1C7F>custom color</font></b> from The Sakurai.
+11:16:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+11:17:21 |l|~Shiny❄Articunos
+11:17:29 |j|~Shiny❄Articunos
+11:26:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+11:36:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+11:46:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+11:56:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1
+12:05:37 |l|~Shiny❄Articunos
+12:05:40 |j|~Shiny❄Articunos
+12:06:07 |raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+12:06:10 |userstats|total:2|guests:0| :0|+:0|$:0|%:0|@:1|★:0|&:0|❆:0|#:0|*:0|~:1

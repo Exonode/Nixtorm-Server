@@ -1,0 +1,63 @@
+[2016-04-15T13:58:21.888Z] (development) (The Sakurai changed the roomdesc to: "Development of the server takes place here!".)
+[2016-04-15T14:02:12.130Z] (development) (The Sakurai has protected this room from being automatically deleted.)
+[2016-04-15T14:45:30.456Z] (development) The Sakurai was appointed to Room Founder by The Sakurai in Development.
+[2016-04-15T14:45:36.400Z] (development) (The Sakurai was demoted to Room Leader by The Sakurai.)
+[2016-04-15T14:45:45.562Z] (development) (The Sakurai was demoted to Room Operator by The Sakurai.)
+[2016-04-15T14:45:53.756Z] (development) The Sakurai was appointed to Room Founder by The Sakurai in Development.
+[2016-04-15T14:46:19.317Z] (development) (The Sakurai was demoted to Room Leader by The Sakurai.)
+[2016-04-15T14:46:24.393Z] (development) The Sakurai was appointed to Room Founder by The Sakurai in Development.
+[2016-04-15T21:28:57.781Z] (development) Quizzyy was promoted to Room Leader by The Sakurai.
+[2016-04-15T21:29:04.000Z] (development) (Quizzyy changed the roomintro.)
+[2016-04-15T21:29:22.662Z] (development) (Quizzyy changed the roomintro.)
+[2016-04-15T21:30:26.962Z] (development) (Quizzyy changed the roomintro.)
+[2016-04-15T21:30:35.913Z] (development) (Quizzyy changed the roomintro.)
+[2016-04-16T14:40:51.177Z] (development) Sakurais Minion was promoted to Moderator by The Sakurai.
+[2016-04-19T04:42:35.024Z] (development) (DestinedArcanine changed the roomintro.)
+[2016-04-21T13:16:39.858Z] (development) HoeenHero was promoted to Room Moderator by The Sakurai.
+[2016-04-21T13:16:51.666Z] (development) (quizzyy was demoted to Room regular user by The Sakurai.)
+[2016-04-21T14:54:22.718Z] (development) The Sakurai send a popup message to Shiny❄Articunos
+[2016-04-21T14:54:38.952Z] (development) The Sakurai send a popup message to Shiny❄Articunos
+[2016-04-21T14:54:55.063Z] (development) The Sakurai send a popup message to Shiny❄Articunos
+[2016-04-21T14:55:13.491Z] (development) The Sakurai send a popup message to Shiny❄Articunos
+[2016-04-21T14:55:27.202Z] (development) The Sakurai send a popup message to Shiny❄Articunos
+[2016-04-21T14:55:33.364Z] (development) The Sakurai send a popup message to The Sakurai
+[2016-04-21T14:57:47.360Z] (development) The Sakurai is hiding auth symbol as ' '
+[2016-04-21T15:00:34.306Z] (development) Shiny❄Articunos was forcibly logged out by The Sakurai.
+[2016-04-21T16:43:08.737Z] (development) The Sakurai send a popup message to The Sakurai
+[2016-04-21T22:48:25.751Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:51:09.363Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:51:23.763Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:51:51.749Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:52:10.441Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:52:25.249Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:52:36.042Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:52:56.524Z] (development) The Sakurai send a popup message to ShinyArticunos
+[2016-04-21T22:54:05.019Z] (development) The Sakurai send a popup message to ShinyArticunos
+[2016-04-21T22:58:26.518Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T22:59:00.867Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-21T23:00:50.859Z] (development) The Sakurai send a popup message to Ransei
+[2016-04-22T06:08:40.984Z] (development) Mega-Rayquaza2 was permanently locked by The Sakurai.
+[2016-04-22T06:08:49.024Z] (development) Mega-Rayquaza2 was permanently banned by The Sakurai. (Goodbye)
+[2016-04-22T14:36:02.573Z] (development) The Sakurai was promoted to Voice by The Sakurai.
+[2016-04-22T14:36:09.985Z] (development) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-24T12:58:12.811Z] (development) KecleonMarket was promoted to Driver by Ransei.
+[2016-04-26T21:54:41.334Z] (development) The Sakurai send a popup message to Carnie Moe Sedah
+[2016-04-26T21:54:51.845Z] (development) The Sakurai send a popup message to Carnie Moe Sedah
+[2016-04-26T21:55:11.442Z] (development) The Sakurai send a popup message to Carnie Moe Sedah
+[2016-04-26T21:55:21.659Z] (development) The Sakurai send a popup message to Carnie Moe Sedah
+[2016-04-26T21:55:28.399Z] (development) The Sakurai send a popup message to Carnie Moe Sedah
+[2016-04-26T21:55:57.442Z] (development) The Sakurai send a popup message to Carnie Moe Sedah
+[2016-04-26T22:02:53.180Z] (development) (Ransei was demoted to Driver by Ransei.)
+[2016-04-26T22:03:14.324Z] (development) Ransei was promoted to Administrator by Ransei.
+[2016-04-26T22:03:19.653Z] (development) (Ransei was demoted to Driver by Ransei.)
+[2016-04-27T23:23:27.164Z] (development) The Sakurai is hiding auth symbol as ' '
+[2016-04-28T15:30:57.129Z] (development) The Sakurai is hiding auth symbol as ' '
+[2016-04-30T16:49:12.810Z] (development) The Sakurai is hiding auth symbol as ' '
+[2016-05-02T17:43:00.112Z] (development) (thesakurai was demoted to regular user by Incasing.)
+[2016-05-02T17:46:09.253Z] (development) (Incasing was demoted to regular user by Incasing.)
+[2016-05-02T17:46:14.236Z] (development) Incasing was promoted to Administrator by Incasing.
+[2016-05-02T18:20:54.360Z] (development) In~Casing send a popup message to Chirou
+[2016-05-02T18:21:17.247Z] (development) In~Casing send a popup message to Chirou
+[2016-05-02T18:21:22.085Z] (development) In~Casing send a popup message to Chirou
+[2016-05-02T18:21:25.720Z] (development) In~Casing send a popup message to Chirou
+[2016-05-02T18:21:31.287Z] (development) In~Casing send a popup message to Chirou

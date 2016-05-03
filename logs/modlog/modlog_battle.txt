@@ -1,0 +1,124 @@
+[2016-04-02T20:54:45.340Z] (battle-randombattle-1) Amber n_n forced a tie.
+[2016-04-02T20:55:02.465Z] (battle-randombattle-1) The Sakurai forced a win for theblindguardian.
+[2016-04-03T00:42:08.344Z] (battle-randombattle-2) Ransei forced a win for ransei.
+[2016-04-06T23:51:14.616Z] (battle-randombattle-32) The Sakurai declared u will die
+[2016-04-06T23:51:20.122Z] (battle-randombattle-32) The Sakurai declared jk
+[2016-04-06T23:51:22.468Z] (battle-randombattle-32) The Sakurai declared gl
+[2016-04-07T01:30:27.512Z] (battle-randombattle-43) The Sakurai forced a tie.
+[2016-04-07T01:30:46.900Z] (battle-randombattle-43) The Sakurai forced a tie.
+[2016-04-07T01:30:55.435Z] (battle-randombattle-43) The Sakurai forced a tie.
+[2016-04-07T01:31:05.338Z] (battle-randombattle-43) The Sakurai forced a win for nixtormbot.
+[2016-04-07T02:22:34.317Z] (battle-randombattle-49) The Sakurai forced a win for thesakurai.
+[2016-04-07T02:24:17.485Z] (battle-monotype-50) The Sakurai set modjoin to +.
+[2016-04-07T02:24:17.487Z] (battle-monotype-50) (The Sakurai set modchat to +)
+[2016-04-07T02:24:17.488Z] (battle-monotype-50) The Sakurai made this room hidden.
+[2016-04-07T02:24:20.983Z] (battle-monotype-50) Winter'sPeak was kicked from the room by The Sakurai.
+[2016-04-07T02:24:43.361Z] (battle-monotype-50) The Sakurai turned off modjoin.
+[2016-04-07T02:25:59.954Z] (battle-monotype-50) Winter'sPeak was kicked from the room by The Sakurai.
+[2016-04-07T02:32:31.951Z] (battle-randombattle-43) Winter'sPeak was kicked from the room by The Sakurai.
+[2016-04-07T02:52:36.923Z] (battle-randombattle-53) (The Sakurai set modchat to @)
+[2016-04-07T02:52:48.673Z] (battle-randombattle-53) (Carnie Moe Sedah was demoted to Room Moderator by The Sakurai.)
+[2016-04-07T02:53:07.800Z] (battle-randombattle-53) (The Sakurai set modchat to false)
+[2016-04-07T02:56:58.528Z] (battle-randombattle-53) The Sakurai declared COME ON MOE
+[2016-04-07T03:48:59.637Z] (battle-randombattle-57) The Sakurai set modjoin to ~.
+[2016-04-07T03:48:59.638Z] (battle-randombattle-57) (The Sakurai set modchat to +)
+[2016-04-07T03:48:59.638Z] (battle-randombattle-57) The Sakurai made this room hidden.
+[2016-04-07T03:49:04.632Z] (battle-randombattle-57) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-07T03:49:08.620Z] (battle-randombattle-57) Winter'sPeak was kicked from the room by The Sakurai.
+[2016-04-07T03:49:38.624Z] (battle-randombattle-57) The Sakurai turned off modjoin.
+[2016-04-07T03:51:02.020Z] (battle-randombattle-57) Winter'sPeak was kicked from the room by The Sakurai.
+[2016-04-07T03:51:13.197Z] (battle-randombattle-57) Winter'sPeak was kicked from the room by The Sakurai.
+[2016-04-07T03:51:20.170Z] (battle-randombattle-57) Winter'sPeak was banned from room battle-randombattle-57 by Amber n_n.
+[2016-04-07T03:53:02.241Z] (battle-randombattle-58) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-07T03:53:06.032Z] (battle-randombattle-58) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-07T03:53:17.531Z] (battle-randombattle-58) Amber n_n forced a tie.
+[2016-04-07T03:53:18.955Z] (battle-randombattle-58) The Sakurai forced a win for carniemoesedah.
+[2016-04-07T03:53:41.327Z] (battle-randombattle-59) The Sakurai forced a win for carniemoesedah.
+[2016-04-07T04:12:33.044Z] (battle-randombattle-62) (The Sakurai set modchat to +)
+[2016-04-07T04:13:01.421Z] (battle-randombattle-62) The Sakurai declared test
+[2016-04-07T04:13:04.034Z] (battle-randombattle-62) The Sakurai declared lol
+[2016-04-07T04:13:06.773Z] (battle-randombattle-62) The Sakurai declared k
+[2016-04-07T04:15:25.565Z] (battle-randombattle-62) The Sakurai declared JUST DO IT
+[2016-04-07T04:15:32.513Z] (battle-randombattle-62) The Sakurai declared shia lebeouf
+[2016-04-07T04:15:44.604Z] (battle-randombattle-62) The Sakurai declared JUST DO IT
+[2016-04-07T04:17:21.915Z] (battle-randombattle-62) Soft Lopunny forced a tie.
+[2016-04-07T04:18:52.040Z] (battle-randombattle-63) (The Sakurai set modchat to +)
+[2016-04-07T04:20:41.449Z] (battle-randombattle-63) (The Sakurai set modchat to false)
+[2016-04-08T22:09:20.518Z] (battle-monotype-89) The Sakurai declared moes gonna win js
+[2016-04-08T22:18:20.646Z] (battle-monotype-89) The Sakurai declared hax
+[2016-04-10T01:08:01.945Z] (battle-randombattle-103) The Sakurai declared gl moe
+[2016-04-10T01:24:35.000Z] (battle-randombattle-103) Soft Lopunny was warned by The Sakurai.
+[2016-04-10T01:24:48.981Z] (battle-randombattle-103) Soft Lopunny was warned by The Sakurai.
+[2016-04-10T01:34:59.321Z] (battle-randombattle-105) The Sakurai declared MOE IS KING
+[2016-04-10T01:37:07.120Z] (battle-randombattle-105) (The Sakurai set modchat to ~)
+[2016-04-10T01:37:10.745Z] (battle-randombattle-105) (The Sakurai set modchat to false)
+[2016-04-10T02:04:29.530Z] (battle-randombattle-108) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:04:55.520Z] (battle-randombattle-108) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:05:11.912Z] (battle-randombattle-108) Soft Lopunny forced a win for carniemoesedah.
+[2016-04-10T02:05:50.465Z] (battle-randombattle-109) Soft Lopunny was banned from room battle-randombattle-109 by The Sakurai.
+[2016-04-10T02:05:59.216Z] (battle-randombattle-109) softlopunny was unbanned from room battle-randombattle-109 by The Sakurai.
+[2016-04-10T02:06:12.568Z] (battle-randombattle-109) Soft Lopunny was banned from room battle-randombattle-109 by The Sakurai.
+[2016-04-10T02:06:57.469Z] (battle-randombattle-109) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:07:05.766Z] (battle-randombattle-109) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:07:14.219Z] (battle-randombattle-109) Soft Lopunny forced a win for carniemoesedah.
+[2016-04-10T02:08:30.174Z] (battle-randombattle-110) Soft Lopunny was banned from room battle-randombattle-110 by The Sakurai.
+[2016-04-10T02:08:43.699Z] (battle-randombattle-110) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:09:03.221Z] (battle-randombattle-110) The Sakurai was muted by The Sakurai for 7 minutes.
+[2016-04-10T02:09:10.554Z] (battle-randombattle-110) The Sakurai was unmuted by The Sakurai.
+[2016-04-10T02:10:27.072Z] (battle-randombattle-110) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:11:16.604Z] (battle-randombattle-110) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:11:22.044Z] (battle-randombattle-110) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:13:14.490Z] (battle-randombattle-110) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:16:29.757Z] (battle-randombattle-111) The Sakurai forced a win for carniemoesedah.
+[2016-04-10T02:21:40.299Z] (battle-randombattle-112) (Soft Lopunny was demoted to Room Moderator by The Sakurai.)
+[2016-04-10T02:21:45.132Z] (battle-randombattle-112) (Soft Lopunny was demoted to Room Voice by The Sakurai.)
+[2016-04-10T02:21:50.341Z] (battle-randombattle-112) (Soft Lopunny was demoted to Room regular user by The Sakurai.)
+[2016-04-10T02:39:49.460Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:39:56.288Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:39:56.414Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:40:03.469Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:40:12.511Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:40:38.033Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:41:06.845Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:41:14.996Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:41:29.253Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:41:41.197Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:41:46.498Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:41:53.560Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:41:59.736Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:42:34.041Z] (battle-randombattle-113) Soft Lopunny was banned from room battle-randombattle-113 by The Sakurai.
+[2016-04-10T02:42:38.196Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:42:47.434Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:42:52.321Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:42:59.465Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:43:04.988Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:43:11.028Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-10T02:43:15.436Z] (battle-randombattle-113) The Sakurai was kicked from the room by Soft Lopunny.
+[2016-04-10T02:43:21.729Z] (battle-randombattle-113) Soft Lopunny was kicked from the room by The Sakurai.
+[2016-04-11T00:06:09.766Z] (battle-randombattle-167) Winter'sPeak's messages were cleared from room battle-randombattle-167 by The Sakurai.
+[2016-04-11T00:12:11.651Z] (battle-randombattle-167) The Sakurai was banned from room battle-randombattle-167 by The Sakurai.
+[2016-04-11T00:12:31.014Z] (battle-randombattle-167) thesakurai was unbanned from room battle-randombattle-167 by The Sakurai.
+[2016-04-11T00:28:49.535Z] (battle-randombattle-168) The Sakurai set modjoin to ~.
+[2016-04-11T00:28:49.536Z] (battle-randombattle-168) (The Sakurai set modchat to +)
+[2016-04-11T00:28:49.536Z] (battle-randombattle-168) The Sakurai made this room hidden.
+[2016-04-11T21:08:00.935Z] (battle-monotype-179) Winter'sPeak was kicked from the room by The Sakurai.
+[2016-04-11T22:30:41.082Z] (battle-seasonaldimensiondoom-182) The Sakurai's messages were cleared from room battle-seasonaldimensiondoom-182 by The Sakurai.
+[2016-04-12T23:04:32.081Z] (battle-monotype-204) Carnie Moe Sedah was promoted to Moderator by The Sakurai.
+[2016-04-14T23:45:44.983Z] (battle-seasonalsuperstaffbrosmelee-245) The Sakurai declared test
+[2016-04-19T16:16:22.419Z] (battle-randombattle-254) The Sakurai was promoted to Administrator by The Sakurai.
+[2016-04-19T16:17:01.160Z] (battle-randombattle-254) (The Sakurai was demoted to regular user by The Sakurai.)
+[2016-04-19T16:17:08.684Z] (battle-randombattle-254) The Sakurai was promoted to Developer by The Sakurai.
+[2016-04-21T17:36:01.126Z] (battle-randombattle-276) The Sakurai forced a tie.
+[2016-04-22T18:32:50.541Z] (battle-betanixtormsuperstaffbros-303) The Sakurai forced a tie.
+[2016-04-22T18:37:07.392Z] (battle-betanixtormsuperstaffbros-306) The Sakurai forced a tie.
+[2016-04-26T22:18:23.494Z] (battle-anythinggoes-340) Ransei was kicked from the room by The Sakurai.
+[2016-04-26T22:18:47.956Z] (battle-anythinggoes-340) The Sakurai was kicked from the room by Ransei.
+[2016-04-26T22:19:10.313Z] (battle-anythinggoes-340) Ransei was forcibly logged out by The Sakurai.
+[2016-04-29T22:04:44.962Z] (battle-anythinggoes-360) Chirou was promoted to Room Player by Chirou.
+[2016-04-29T22:15:19.201Z] (battle-challengecup1v1-362) Ransei was kicked from the room by Chirou.
+[2016-04-29T22:17:13.409Z] (battle-challengecup1v1-362) Chirou was kicked from the room by Chirou.
+[2016-04-29T22:18:33.754Z] (battle-anythinggoes-363) The Sakurai forced a tie.
+[2016-04-29T22:23:34.838Z] (battle-anythinggoes-364) TerminalHydreigon was kicked from the room by Chirou.
+[2016-04-29T22:23:46.169Z] (battle-anythinggoes-364) TerminalHydreigon was kicked from the room by Chirou.
+[2016-04-29T22:26:39.124Z] (battle-anythinggoes-364) TerminalHydreigon was banned from room battle-anythinggoes-364 by Chirou.
+[2016-04-29T22:38:27.372Z] (battle-anythinggoes-364) Chirou's messages were cleared from room battle-anythinggoes-364 by The Sakurai.
