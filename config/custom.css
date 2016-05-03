@@ -1,0 +1,179 @@
+/*main css*/
+
+header {
+	background:url("") no-repeat; 
+	background-color:#E0FFFF ;
+}
+
+body {
+    background: url('http://i.imgur.com/XkgH8LA.jpg?1')!important;
+}
+
+.header {
+   background: url("http://i.imgur.com/0RGWyh7.png") no-repeat;
+}
+  
+.header .logo {
+   opacity: 0;
+}
+
+.chat-log{
+	background: url("http://vignette1.wikia.nocookie.net/pokemon-planet/images/3/35/Pokemon_Articuno.png/revision/latest?cb=20150920122342") right top no-repeat;
+}
+.menugroup {
+	background:url("");
+	color:black
+}
+.chat-log-add,.pm-log-add,.pm-window h3 {
+	background:#e5e5ff
+}
+.pm-log {
+	background:url("http://i.imgur.com/Q8vHT0Y.png");
+	border-width:0
+}
+.pm-window.focused h3,.pm-window.focused h3:hover {
+	background:#e5e5ff
+}
+.userlist{
+	border-left:1px solid #e5e5ff;
+	background:#e5e5ff
+}
+
+/*wndo pm box*/
+
+.pm-window-wndo h3:hover,.pm-window-wndo.focused h3,.pm-window-wndo.focused h3:hover {
+      background:#e68a00 url("http://www.serebii.net/pokedex-dp/icon/007.gif") no-repeat;
+      background-position:225px -8px;
+      color:#00ffff;
+      border-color:#00ffff
+}
+
+.pm-window-wndo h3 small,.pm-window-wndo h3 .minimizebutton,.pm-window-wndo h3 .closebutton,.pm-window-wndo h3:hover .minimizebutton {
+      color:#000000
+}
+
+.pm-window-wndo h3 .closebutton:hover+.minimizebutton.minimizebutton {
+      color:#00ffff
+}
+
+.pm-window-wndo h3 .closebutton:hover {
+      color:#00ffff
+}
+
+.pm-window-wndo h3 .minimizebutton:hover {
+      color:#00ffff
+}
+
+.pm-window-wndo .pm-log,.pm-window-wndo.focused .pm-log {
+      background:rgba(236,255,251,0.9) url("http://orig14.deviantart.net/88b5/f/2012/090/b/8/ash__s_squirtle_sprite_by_edenselite-d4ui81p.png") no-repeat right top;
+      border-color:#e68a00
+}
+
+.pm-window-wndo .pm-log-add,.pm-window-wndo.focused .pm-log-add {
+      background:#00ffff;
+      border-color:#e68a00
+}
+
+.pm-window-wndo .pm-log-add .textbox{
+      border-color:#e68a00;
+      background:#00ffff;
+      color:#ff3399
+}
+
+/*sakurai pm box*/
+
+.pm-window-thesakurai h3:hover,.pm-window-thesakurai.focused h3,.pm-window-thesakurai.focused h3:hover {
+      background:#99ffdd url("http://www.serebii.net/pokedex-dp/icon/144.gif") no-repeat;
+      background-position:225px -8px;
+      color:#003322;
+      border-color:#ffffff
+}
+
+.pm-window-thesakurai h3 small,.pm-window-thesakurai h3 .minimizebutton,.pm-window-thesakurai h3 .closebutton,.pm-window-thesakurai h3:hover .minimizebutton {
+      color:#ffffff
+}
+
+.pm-window-thesakurai h3 .closebutton:hover+.minimizebutton.minimizebutton {
+      color:#ffffff
+}
+
+.pm-window-thesakurai h3 .closebutton:hover {
+      color:#ffffff
+}
+
+.pm-window-thesakurai h3 .minimizebutton:hover {
+      color:#ffffff
+}
+
+.pm-window-thesakurai .pm-log,.pm-window-thesakurai.focused .pm-log {
+      background:rgba(236,255,251,0.9) url("http://i555.photobucket.com/albums/jj475/Pheonyx/GoldArticunoRevamp.png") no-repeat right top;
+      border-color:#ccffee
+}
+
+.pm-window-thesakurai .pm-log-add,.pm-window-thesakurai.focused .pm-log-add {
+      background:#66ffcc;
+      border-color:#00ffaa
+}
+
+.pm-window-thesakurai .pm-log-add .textbox{
+      border-color:#00ffaa;
+      background:#66ffcc;
+      color:#009966
+}
+
+/*end*/
+
+.message-announce {
+	background:#e5e5ff
+}
+
+.chat.chatmessage-ransei  strong { 
+    color:#DAC007 !important;
+  }
+
+.chat.chatmessage-ransei  strong { 
+    color:#DAC007 !important;
+  }
+
+.chat.chatmessage-ransei  strong { 
+    color:#dacc07 !important;
+  }
+
+  #lobby-userlist-user-thesakurai, #staff-userlist-user-thesakurai { 
+    background: rgba(244, 244, 244, 0.8) url("http://pldh.net/media/pokecons_action/144.gif") right no-repeat;
+  }
+  
+   #lobby-userlist-user-shinyarticunos, #staff-userlist-user-shinyarticunos {
+    background: rgba(244, 244, 244, 0.8) url("http://pldh.net/media/pokecons_action/300.gif") right no-repeat;
+  }
+  
+  #lobby-userlist-user-carniemoesedah, #blizzardleague-userlist-user-carniemoesedah { 
+    background: rgba(244, 244, 244, 0.8) url("http://pldh.net/media/pokecons_action/302.gif") right no-repeat;
+  }
+  
+  #lobby-userlist-user-softlopunny, #blizzardleague-userlist-user-softlopunny { 
+    background: rgba(244, 244, 244, 0.8) url("") right no-repeat;
+  }
+  
+  #lobby-userlist-user-ransei, #staff-userlist-user-ransei {
+    background: rgba(244, 244, 244, 0.8) url("http://pldh.net/media/pokecons_action/493.gif") right no-repeat;
+  }
+  
+
+
+.chat.chatmessage-shinyarticunos  strong { 
+    color:#FF1C7F !important;
+  }/* COLORS START */
+#lobby-userlist-user-shinyarticuno strong em, #lobby-userlist-user-shinyarticuno strong, #lobby-userlist-user-shinyarticuno span, #staff-userlist-user-shinyarticuno strong em, #staff-userlist-user-shinyarticuno strong, #staff-userlist-user-shinyarticuno span, #casino-userlist-user-shinyarticuno strong em, #casino-userlist-user-shinyarticuno strong, #casino-userlist-user-shinyarticuno span, #ideas-userlist-user-shinyarticuno strong em, #ideas-userlist-user-shinyarticuno strong, #ideas-userlist-user-shinyarticuno span, #blizzardleague-userlist-user-shinyarticuno strong em, #blizzardleague-userlist-user-shinyarticuno strong, #blizzardleague-userlist-user-shinyarticuno span, #clawstestingroom-userlist-user-shinyarticuno strong em, #clawstestingroom-userlist-user-shinyarticuno strong, #clawstestingroom-userlist-user-shinyarticuno span, #development-userlist-user-shinyarticuno strong em, #development-userlist-user-shinyarticuno strong, #development-userlist-user-shinyarticuno span, #qgdarkteam-userlist-user-shinyarticuno strong em, #qgdarkteam-userlist-user-shinyarticuno strong, #qgdarkteam-userlist-user-shinyarticuno span{
+color: #FF1C7F !important;
+}
+.chat.chatmessage-shinyarticuno strong {
+color: #FF1C7F !important;
+}
+#lobby-userlist-user-shinyarticunos strong em, #lobby-userlist-user-shinyarticunos strong, #lobby-userlist-user-shinyarticunos span, #staff-userlist-user-shinyarticunos strong em, #staff-userlist-user-shinyarticunos strong, #staff-userlist-user-shinyarticunos span, #casino-userlist-user-shinyarticunos strong em, #casino-userlist-user-shinyarticunos strong, #casino-userlist-user-shinyarticunos span, #ideas-userlist-user-shinyarticunos strong em, #ideas-userlist-user-shinyarticunos strong, #ideas-userlist-user-shinyarticunos span, #blizzardleague-userlist-user-shinyarticunos strong em, #blizzardleague-userlist-user-shinyarticunos strong, #blizzardleague-userlist-user-shinyarticunos span, #clawstestingroom-userlist-user-shinyarticunos strong em, #clawstestingroom-userlist-user-shinyarticunos strong, #clawstestingroom-userlist-user-shinyarticunos span, #development-userlist-user-shinyarticunos strong em, #development-userlist-user-shinyarticunos strong, #development-userlist-user-shinyarticunos span, #qgdarkteam-userlist-user-shinyarticunos strong em, #qgdarkteam-userlist-user-shinyarticunos strong, #qgdarkteam-userlist-user-shinyarticunos span{
+color: #FF1C7F !important;
+}
+.chat.chatmessage-shinyarticunos strong {
+color: #FF1C7F !important;
+}
+/* COLORS END */
